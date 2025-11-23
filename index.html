@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>英単語フラッシュカード（GitHub Pages対応）</title>
+  <link rel="stylesheet" href="styles.css" />
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+</head>
+<body>
+  <div class="container">
+    <h1 class="title">📚 英単語フラッシュカード</h1>
+    <div class="card">
+      <div id="counter" class="counter">0 / 0</div>
+      <div id="studyArea" style="display:none; text-align:center;">
+        <div id="card" style="cursor:pointer; padding:18px;">
+          <div id="english" class="english-large">loading...</div>
+          <div id="ipa" class="small mono"></div>
+          <div id="katakana" class="katakana"></div>
+          <div id="japanese" class="japanese"></div>
+          <div id="hint" class="small">タップして答えを表示</div>
+        </div>
+        <div id="controls" style="display:none; margin-top:12px; text-align:center;">
+          <button id="speakBtn" class="button">🔊 発音</button>
+          <button id="nextBtn" class="button green">次へ</button>
+          <button id="stopBtn" class="button red">終了</button>
+        </div>
+      </div>
+      <div style="text-align:center; margin-top:12px;">
+        <button id="startBtn" class="button">学習スタート (<span id="count">0</span> 単語)</button>
+      </div>
+    </div>
+    <p class="small center">元ファイル: flashcard_offline_wordbook (2).html</p>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>

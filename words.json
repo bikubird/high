@@ -1,0 +1,4802 @@
+﻿[
+  {
+    "english": "apple",
+    "japanese": "りんご",
+    "ipa": "/ˈæp.əl/",
+    "katakana": "アププルエ"
+  },
+  {
+    "english": "water",
+    "japanese": "水",
+    "ipa": "/ˈwɔː.tər/",
+    "katakana": "ワアトアル"
+  },
+  {
+    "english": "eat",
+    "japanese": "食べる",
+    "ipa": "/iːt/",
+    "katakana": "イト"
+  },
+  {
+    "english": "go",
+    "japanese": "行く",
+    "ipa": "/ɡoʊ/",
+    "katakana": "グオ"
+  },
+  {
+    "english": "see",
+    "japanese": "見る",
+    "ipa": "/siː/",
+    "katakana": "スエエ"
+  },
+  {
+    "english": "thank you",
+    "japanese": "ありがとう",
+    "ipa": "/thænk/ /iː/",
+    "katakana": "スアンク・イオウ"
+  },
+  {
+    "english": "excuse me",
+    "japanese": "すみません",
+    "ipa": "/ekskəse/ /me/",
+    "katakana": "エクスクウスエ・ムエ"
+  },
+  {
+    "english": "hello",
+    "japanese": "こんにちは",
+    "ipa": "/həˈloʊ/",
+    "katakana": "ハエルルオ"
+  },
+  {
+    "english": "good",
+    "japanese": "良い",
+    "ipa": "/ɡʊd/",
+    "katakana": "グウド"
+  },
+  {
+    "english": "bad",
+    "japanese": "悪い",
+    "ipa": "/bæd/",
+    "katakana": "ブアド"
+  },
+  {
+    "english": "yes",
+    "japanese": "はい",
+    "ipa": "/jɛs/",
+    "katakana": "イエス"
+  },
+  {
+    "english": "no",
+    "japanese": "いいえ",
+    "ipa": "/noʊ/",
+    "katakana": "ンオ"
+  },
+  {
+    "english": "please",
+    "japanese": "お願いします",
+    "ipa": "/pliːz/",
+    "katakana": "プルイスエ"
+  },
+  {
+    "english": "help",
+    "japanese": "助けて",
+    "ipa": "/help/",
+    "katakana": "ハエルプ"
+  },
+  {
+    "english": "today",
+    "japanese": "今日",
+    "ipa": "/toʊdiː/",
+    "katakana": "トオドエイ"
+  },
+  {
+    "english": "tomorrow",
+    "japanese": "明日",
+    "ipa": "/toʊmoʊrroʊw/",
+    "katakana": "トオムオルルオウ"
+  },
+  {
+    "english": "yesterday",
+    "japanese": "昨日",
+    "ipa": "/iːsterdiː/",
+    "katakana": "イエストエルドエイ"
+  },
+  {
+    "english": "time",
+    "japanese": "時間",
+    "ipa": "/tiːme/",
+    "katakana": "トイムエ"
+  },
+  {
+    "english": "day",
+    "japanese": "日",
+    "ipa": "/diː/",
+    "katakana": "ドエイ"
+  },
+  {
+    "english": "night",
+    "japanese": "夜",
+    "ipa": "/niːt/",
+    "katakana": "ンイグハト"
+  },
+  {
+    "english": "morning",
+    "japanese": "",
+    "ipa": "/moʊrniːng/",
+    "katakana": "ムオルンイング"
+  },
+  {
+    "english": "evening",
+    "japanese": "",
+    "ipa": "/eveniːng/",
+    "katakana": "エヴエンイング"
+  },
+  {
+    "english": "friend",
+    "japanese": "友達",
+    "ipa": "/friːnd/",
+    "katakana": "フルイエンド"
+  },
+  {
+    "english": "family",
+    "japanese": "家族",
+    "ipa": "/fæmiːliː/",
+    "katakana": "フアムイルイ"
+  },
+  {
+    "english": "school",
+    "japanese": "学校",
+    "ipa": "/skhuːl/",
+    "katakana": "スチウル"
+  },
+  {
+    "english": "work",
+    "japanese": "仕事",
+    "ipa": "/woʊrk/",
+    "katakana": "ワオルク"
+  },
+  {
+    "english": "home",
+    "japanese": "家",
+    "ipa": "/hoʊme/",
+    "katakana": "ハオムエ"
+  },
+  {
+    "english": "house",
+    "japanese": "家屋",
+    "ipa": "/haʊse/",
+    "katakana": "ハオウスエ"
+  },
+  {
+    "english": "car",
+    "japanese": "車",
+    "ipa": "/kær/",
+    "katakana": "クアル"
+  },
+  {
+    "english": "bus",
+    "japanese": "バス",
+    "ipa": "/bəs/",
+    "katakana": "ブウス"
+  },
+  {
+    "english": "train",
+    "japanese": "電車",
+    "ipa": "/triːn/",
+    "katakana": "チュラエイン"
+  },
+  {
+    "english": "run",
+    "japanese": "走る",
+    "ipa": "/rən/",
+    "katakana": "ルウン"
+  },
+  {
+    "english": "walk",
+    "japanese": "歩く",
+    "ipa": "/wælk/",
+    "katakana": "ワアルク"
+  },
+  {
+    "english": "come",
+    "japanese": "来る",
+    "ipa": "/koʊme/",
+    "katakana": "クオムエ"
+  },
+  {
+    "english": "make",
+    "japanese": "作る",
+    "ipa": "/mæke/",
+    "katakana": "ムアクエ"
+  },
+  {
+    "english": "do",
+    "japanese": "する",
+    "ipa": "/doʊ/",
+    "katakana": "ドオ"
+  },
+  {
+    "english": "have",
+    "japanese": "持つ",
+    "ipa": "/hæve/",
+    "katakana": "ハアヴエ"
+  },
+  {
+    "english": "need",
+    "japanese": "必要",
+    "ipa": "/nəd/",
+    "katakana": "ンエエド"
+  },
+  {
+    "english": "want",
+    "japanese": "欲しい",
+    "ipa": "/wænt/",
+    "katakana": "ワアント"
+  },
+  {
+    "english": "like",
+    "japanese": "好き",
+    "ipa": "/liːke/",
+    "katakana": "ルイクエ"
+  },
+  {
+    "english": "love",
+    "japanese": "愛する",
+    "ipa": "/loʊve/",
+    "katakana": "ルオヴエ"
+  },
+  {
+    "english": "know",
+    "japanese": "知る",
+    "ipa": "/knoʊw/",
+    "katakana": "クンオウ"
+  },
+  {
+    "english": "think",
+    "japanese": "考える",
+    "ipa": "/thiːnk/",
+    "katakana": "スインク"
+  },
+  {
+    "english": "say",
+    "japanese": "言う",
+    "ipa": "/siː/",
+    "katakana": "スエイ"
+  },
+  {
+    "english": "tell",
+    "japanese": "",
+    "ipa": "/tell/",
+    "katakana": "トエルル"
+  },
+  {
+    "english": "ask",
+    "japanese": "尋ねる",
+    "ipa": "/æsk/",
+    "katakana": "アスク"
+  },
+  {
+    "english": "answer",
+    "japanese": "答える",
+    "ipa": "/ænswer/",
+    "katakana": "アンスワアル"
+  },
+  {
+    "english": "buy",
+    "japanese": "買う",
+    "ipa": "/biː/",
+    "katakana": "ブウイ"
+  },
+  {
+    "english": "sell",
+    "japanese": "売る",
+    "ipa": "/sell/",
+    "katakana": "スエルル"
+  },
+  {
+    "english": "pay",
+    "japanese": "支払う",
+    "ipa": "/piː/",
+    "katakana": "プエイ"
+  },
+  {
+    "english": "read",
+    "japanese": "読む",
+    "ipa": "/rəd/",
+    "katakana": "ルイド"
+  },
+  {
+    "english": "write",
+    "japanese": "書く",
+    "ipa": "/wriːte/",
+    "katakana": "ワルイトエ"
+  },
+  {
+    "english": "listen",
+    "japanese": "聞く",
+    "ipa": "/liːsten/",
+    "katakana": "ルイストエン"
+  },
+  {
+    "english": "speak",
+    "japanese": "話す",
+    "ipa": "/spək/",
+    "katakana": "スプイク"
+  },
+  {
+    "english": "watch",
+    "japanese": "",
+    "ipa": "/wætkh/",
+    "katakana": "ワアトチ"
+  },
+  {
+    "english": "sleep",
+    "japanese": "眠る",
+    "ipa": "/sləp/",
+    "katakana": "スルエエプ"
+  },
+  {
+    "english": "wake up",
+    "japanese": "",
+    "ipa": "/wæke/ /əp/",
+    "katakana": "ワアクエ・ウプ"
+  },
+  {
+    "english": "open",
+    "japanese": "開ける",
+    "ipa": "/oʊpen/",
+    "katakana": "オプエン"
+  },
+  {
+    "english": "close",
+    "japanese": "閉める",
+    "ipa": "/kloʊse/",
+    "katakana": "クルオスエ"
+  },
+  {
+    "english": "start",
+    "japanese": "始める",
+    "ipa": "/stært/",
+    "katakana": "ストアルト"
+  },
+  {
+    "english": "finish",
+    "japanese": "終える",
+    "ipa": "/fiːniːsh/",
+    "katakana": "フインイシュ"
+  },
+  {
+    "english": "stop",
+    "japanese": "止める",
+    "ipa": "/stoʊp/",
+    "katakana": "ストオプ"
+  },
+  {
+    "english": "play",
+    "japanese": "遊ぶ",
+    "ipa": "/pliː/",
+    "katakana": "プルエイ"
+  },
+  {
+    "english": "watch out",
+    "japanese": "",
+    "ipa": "/wætkh/ /aʊt/",
+    "katakana": "ワアトチ・オウト"
+  },
+  {
+    "english": "look",
+    "japanese": "見る",
+    "ipa": "/luːk/",
+    "katakana": "ルウク"
+  },
+  {
+    "english": "use",
+    "japanese": "使う",
+    "ipa": "/əse/",
+    "katakana": "ウスエ"
+  },
+  {
+    "english": "find",
+    "japanese": "見つける",
+    "ipa": "/fiːnd/",
+    "katakana": "フインド"
+  },
+  {
+    "english": "lose",
+    "japanese": "失う",
+    "ipa": "/loʊse/",
+    "katakana": "ルオスエ"
+  },
+  {
+    "english": "wait",
+    "japanese": "待つ",
+    "ipa": "/wiːt/",
+    "katakana": "ワエイト"
+  },
+  {
+    "english": "stay",
+    "japanese": "滞在する",
+    "ipa": "/stiː/",
+    "katakana": "ストエイ"
+  },
+  {
+    "english": "leave",
+    "japanese": "去る",
+    "ipa": "/ləve/",
+    "katakana": "ルイヴエ"
+  },
+  {
+    "english": "move",
+    "japanese": "動く",
+    "ipa": "/moʊve/",
+    "katakana": "ムオヴエ"
+  },
+  {
+    "english": "sit",
+    "japanese": "座る",
+    "ipa": "/siːt/",
+    "katakana": "スイト"
+  },
+  {
+    "english": "stand",
+    "japanese": "立つ",
+    "ipa": "/stænd/",
+    "katakana": "ストアンド"
+  },
+  {
+    "english": "talk",
+    "japanese": "話す",
+    "ipa": "/tælk/",
+    "katakana": "トアルク"
+  },
+  {
+    "english": "call",
+    "japanese": "呼ぶ",
+    "ipa": "/kæll/",
+    "katakana": "クアルル"
+  },
+  {
+    "english": "meet",
+    "japanese": "会う",
+    "ipa": "/mət/",
+    "katakana": "ムエエト"
+  },
+  {
+    "english": "bring",
+    "japanese": "持ってくる",
+    "ipa": "/briːng/",
+    "katakana": "ブルイング"
+  },
+  {
+    "english": "take",
+    "japanese": "取る",
+    "ipa": "/tæke/",
+    "katakana": "トアクエ"
+  },
+  {
+    "english": "give",
+    "japanese": "与える",
+    "ipa": "/giːve/",
+    "katakana": "グイヴエ"
+  },
+  {
+    "english": "show",
+    "japanese": "見せる",
+    "ipa": "/shoʊw/",
+    "katakana": "シュオウ"
+  },
+  {
+    "english": "build",
+    "japanese": "",
+    "ipa": "/biːld/",
+    "katakana": "ブウイルド"
+  },
+  {
+    "english": "break",
+    "japanese": "",
+    "ipa": "/brək/",
+    "katakana": "ブルイク"
+  },
+  {
+    "english": "fix",
+    "japanese": "",
+    "ipa": "/fiːks/",
+    "katakana": "フイクス"
+  },
+  {
+    "english": "clean",
+    "japanese": "",
+    "ipa": "/klən/",
+    "katakana": "クルイン"
+  },
+  {
+    "english": "cook",
+    "japanese": "",
+    "ipa": "/kuːk/",
+    "katakana": "クウク"
+  },
+  {
+    "english": "drink",
+    "japanese": "",
+    "ipa": "/driːnk/",
+    "katakana": "ドルインク"
+  },
+  {
+    "english": "study",
+    "japanese": "",
+    "ipa": "/stədiː/",
+    "katakana": "ストウドイ"
+  },
+  {
+    "english": "teach",
+    "japanese": "",
+    "ipa": "/təkh/",
+    "katakana": "トイチ"
+  },
+  {
+    "english": "learn",
+    "japanese": "",
+    "ipa": "/lərn/",
+    "katakana": "ルイルン"
+  },
+  {
+    "english": "change",
+    "japanese": "",
+    "ipa": "/khænge/",
+    "katakana": "チアングエ"
+  },
+  {
+    "english": "try",
+    "japanese": "",
+    "ipa": "/triː/",
+    "katakana": "チュライ"
+  },
+  {
+    "english": "choose",
+    "japanese": "",
+    "ipa": "/khuːse/",
+    "katakana": "チウスエ"
+  },
+  {
+    "english": "remember",
+    "japanese": "",
+    "ipa": "/remember/",
+    "katakana": "ルエムエムブアル"
+  },
+  {
+    "english": "forget",
+    "japanese": "",
+    "ipa": "/foʊrget/",
+    "katakana": "フオルグエト"
+  },
+  {
+    "english": "believe",
+    "japanese": "",
+    "ipa": "/beliːve/",
+    "katakana": "ブエルイエヴエ"
+  },
+  {
+    "english": "hope",
+    "japanese": "",
+    "ipa": "/hoʊpe/",
+    "katakana": "ハオプエ"
+  },
+  {
+    "english": "plan",
+    "japanese": "",
+    "ipa": "/plæn/",
+    "katakana": "プルアン"
+  },
+  {
+    "english": "travel",
+    "japanese": "",
+    "ipa": "/trævel/",
+    "katakana": "チュラアヴエル"
+  },
+  {
+    "english": "visit",
+    "japanese": "",
+    "ipa": "/viːsiːt/",
+    "katakana": "ヴイスイト"
+  },
+  {
+    "english": "stay",
+    "japanese": "滞在する",
+    "ipa": "/stiː/",
+    "katakana": "ストエイ"
+  },
+  {
+    "english": "return",
+    "japanese": "",
+    "ipa": "/retərn/",
+    "katakana": "ルエトウルン"
+  },
+  {
+    "english": "arrive",
+    "japanese": "",
+    "ipa": "/ærriːve/",
+    "katakana": "アルルイヴエ"
+  },
+  {
+    "english": "depart",
+    "japanese": "",
+    "ipa": "/depært/",
+    "katakana": "ドエプアルト"
+  },
+  {
+    "english": "begin",
+    "japanese": "",
+    "ipa": "/begiːn/",
+    "katakana": "ブエグイン"
+  },
+  {
+    "english": "end",
+    "japanese": "",
+    "ipa": "/end/",
+    "katakana": "エンド"
+  },
+  {
+    "english": "helpful",
+    "japanese": "",
+    "ipa": "/helpfəl/",
+    "katakana": "ハエルプフウル"
+  },
+  {
+    "english": "important",
+    "japanese": "",
+    "ipa": "/iːmpoʊrtænt/",
+    "katakana": "イムプオルトアント"
+  },
+  {
+    "english": "easy",
+    "japanese": "",
+    "ipa": "/əsiː/",
+    "katakana": "イスイ"
+  },
+  {
+    "english": "difficult",
+    "japanese": "",
+    "ipa": "/diːffiːkəlt/",
+    "katakana": "ドイフフイクウルト"
+  },
+  {
+    "english": "fast",
+    "japanese": "",
+    "ipa": "/fæst/",
+    "katakana": "フアスト"
+  },
+  {
+    "english": "slow",
+    "japanese": "",
+    "ipa": "/sloʊw/",
+    "katakana": "スルオウ"
+  },
+  {
+    "english": "early",
+    "japanese": "",
+    "ipa": "/ərliː/",
+    "katakana": "イルルイ"
+  },
+  {
+    "english": "late",
+    "japanese": "",
+    "ipa": "/læte/",
+    "katakana": "ルアトエ"
+  },
+  {
+    "english": "young",
+    "japanese": "",
+    "ipa": "/iːng/",
+    "katakana": "イオウング"
+  },
+  {
+    "english": "old",
+    "japanese": "",
+    "ipa": "/oʊld/",
+    "katakana": "オルド"
+  },
+  {
+    "english": "big",
+    "japanese": "",
+    "ipa": "/biːg/",
+    "katakana": "ブイグ"
+  },
+  {
+    "english": "small",
+    "japanese": "",
+    "ipa": "/smæll/",
+    "katakana": "スムアルル"
+  },
+  {
+    "english": "long",
+    "japanese": "",
+    "ipa": "/loʊng/",
+    "katakana": "ルオング"
+  },
+  {
+    "english": "short",
+    "japanese": "",
+    "ipa": "/shoʊrt/",
+    "katakana": "シュオルト"
+  },
+  {
+    "english": "high",
+    "japanese": "",
+    "ipa": "/hiː/",
+    "katakana": "ハイグハ"
+  },
+  {
+    "english": "low",
+    "japanese": "",
+    "ipa": "/loʊw/",
+    "katakana": "ルオウ"
+  },
+  {
+    "english": "heavy",
+    "japanese": "",
+    "ipa": "/həviː/",
+    "katakana": "ハイヴイ"
+  },
+  {
+    "english": "light",
+    "japanese": "",
+    "ipa": "/liːt/",
+    "katakana": "ルイグハト"
+  },
+  {
+    "english": "hot",
+    "japanese": "",
+    "ipa": "/hoʊt/",
+    "katakana": "ハオト"
+  },
+  {
+    "english": "cold",
+    "japanese": "",
+    "ipa": "/koʊld/",
+    "katakana": "クオルド"
+  },
+  {
+    "english": "warm",
+    "japanese": "",
+    "ipa": "/wærm/",
+    "katakana": "ワアルム"
+  },
+  {
+    "english": "cool",
+    "japanese": "",
+    "ipa": "/kuːl/",
+    "katakana": "クウル"
+  },
+  {
+    "english": "new",
+    "japanese": "",
+    "ipa": "/new/",
+    "katakana": "ンエワ"
+  },
+  {
+    "english": "old",
+    "japanese": "",
+    "ipa": "/oʊld/",
+    "katakana": "オルド"
+  },
+  {
+    "english": "cheap",
+    "japanese": "",
+    "ipa": "/khəp/",
+    "katakana": "チイプ"
+  },
+  {
+    "english": "expensive",
+    "japanese": "",
+    "ipa": "/ekspensiːve/",
+    "katakana": "エクスプエンスイヴエ"
+  },
+  {
+    "english": "rich",
+    "japanese": "",
+    "ipa": "/riːkh/",
+    "katakana": "ルイチ"
+  },
+  {
+    "english": "poor",
+    "japanese": "",
+    "ipa": "/puːr/",
+    "katakana": "プウル"
+  },
+  {
+    "english": "happy",
+    "japanese": "",
+    "ipa": "/hæppiː/",
+    "katakana": "ハアププイ"
+  },
+  {
+    "english": "sad",
+    "japanese": "",
+    "ipa": "/sæd/",
+    "katakana": "スアド"
+  },
+  {
+    "english": "angry",
+    "japanese": "",
+    "ipa": "/ængriː/",
+    "katakana": "アングルイ"
+  },
+  {
+    "english": "tired",
+    "japanese": "",
+    "ipa": "/tiːred/",
+    "katakana": "トイルエド"
+  },
+  {
+    "english": "bored",
+    "japanese": "",
+    "ipa": "/boʊred/",
+    "katakana": "ブオルエド"
+  },
+  {
+    "english": "busy",
+    "japanese": "",
+    "ipa": "/bəsiː/",
+    "katakana": "ブウスイ"
+  },
+  {
+    "english": "free",
+    "japanese": "",
+    "ipa": "/frə/",
+    "katakana": "フルエエ"
+  },
+  {
+    "english": "safe",
+    "japanese": "",
+    "ipa": "/sæfe/",
+    "katakana": "スアフエ"
+  },
+  {
+    "english": "dangerous",
+    "japanese": "",
+    "ipa": "/dængeraʊs/",
+    "katakana": "ドアングエルオウス"
+  },
+  {
+    "english": "beautiful",
+    "japanese": "",
+    "ipa": "/bətiːfəl/",
+    "katakana": "ブイウトイフウル"
+  },
+  {
+    "english": "ugly",
+    "japanese": "",
+    "ipa": "/əgliː/",
+    "katakana": "ウグルイ"
+  },
+  {
+    "english": "clean",
+    "japanese": "",
+    "ipa": "/klən/",
+    "katakana": "クルイン"
+  },
+  {
+    "english": "dirty",
+    "japanese": "",
+    "ipa": "/diːrtiː/",
+    "katakana": "ドイルトイ"
+  },
+  {
+    "english": "strong",
+    "japanese": "",
+    "ipa": "/stroʊng/",
+    "katakana": "スチュラオング"
+  },
+  {
+    "english": "weak",
+    "japanese": "",
+    "ipa": "/wək/",
+    "katakana": "ワイク"
+  },
+  {
+    "english": "healthy",
+    "japanese": "",
+    "ipa": "/həlthiː/",
+    "katakana": "ハイルスイ"
+  },
+  {
+    "english": "sick",
+    "japanese": "",
+    "ipa": "/siːkk/",
+    "katakana": "スイク"
+  },
+  {
+    "english": "hungry",
+    "japanese": "",
+    "ipa": "/həngriː/",
+    "katakana": "ハウングルイ"
+  },
+  {
+    "english": "full",
+    "japanese": "",
+    "ipa": "/fəll/",
+    "katakana": "フウルル"
+  },
+  {
+    "english": "thirsty",
+    "japanese": "",
+    "ipa": "/thiːrstiː/",
+    "katakana": "スイルストイ"
+  },
+  {
+    "english": "empty",
+    "japanese": "",
+    "ipa": "/emptiː/",
+    "katakana": "エムプトイ"
+  },
+  {
+    "english": "full",
+    "japanese": "",
+    "ipa": "/fəll/",
+    "katakana": "フウルル"
+  },
+  {
+    "english": "open",
+    "japanese": "開ける",
+    "ipa": "/oʊpen/",
+    "katakana": "オプエン"
+  },
+  {
+    "english": "closed",
+    "japanese": "",
+    "ipa": "/kloʊsed/",
+    "katakana": "クルオスエド"
+  },
+  {
+    "english": "right",
+    "japanese": "",
+    "ipa": "/riːt/",
+    "katakana": "ルイグハト"
+  },
+  {
+    "english": "left",
+    "japanese": "",
+    "ipa": "/left/",
+    "katakana": "ルエフト"
+  },
+  {
+    "english": "straight",
+    "japanese": "",
+    "ipa": "/striːt/",
+    "katakana": "スチュラエイグハト"
+  },
+  {
+    "english": "north",
+    "japanese": "",
+    "ipa": "/noʊrth/",
+    "katakana": "ンオルス"
+  },
+  {
+    "english": "south",
+    "japanese": "",
+    "ipa": "/saʊth/",
+    "katakana": "スオウス"
+  },
+  {
+    "english": "east",
+    "japanese": "",
+    "ipa": "/əst/",
+    "katakana": "イスト"
+  },
+  {
+    "english": "west",
+    "japanese": "",
+    "ipa": "/west/",
+    "katakana": "ワエスト"
+  },
+  {
+    "english": "inside",
+    "japanese": "",
+    "ipa": "/iːnsiːde/",
+    "katakana": "インスイドエ"
+  },
+  {
+    "english": "outside",
+    "japanese": "",
+    "ipa": "/aʊtsiːde/",
+    "katakana": "オウトスイドエ"
+  },
+  {
+    "english": "up",
+    "japanese": "",
+    "ipa": "/əp/",
+    "katakana": "ウプ"
+  },
+  {
+    "english": "down",
+    "japanese": "",
+    "ipa": "/doʊwn/",
+    "katakana": "ドオウン"
+  },
+  {
+    "english": "above",
+    "japanese": "",
+    "ipa": "/æboʊve/",
+    "katakana": "アブオヴエ"
+  },
+  {
+    "english": "below",
+    "japanese": "",
+    "ipa": "/beloʊw/",
+    "katakana": "ブエルオウ"
+  },
+  {
+    "english": "near",
+    "japanese": "",
+    "ipa": "/nər/",
+    "katakana": "ンイル"
+  },
+  {
+    "english": "far",
+    "japanese": "",
+    "ipa": "/fær/",
+    "katakana": "フアル"
+  },
+  {
+    "english": "inside",
+    "japanese": "",
+    "ipa": "/iːnsiːde/",
+    "katakana": "インスイドエ"
+  },
+  {
+    "english": "outside",
+    "japanese": "",
+    "ipa": "/aʊtsiːde/",
+    "katakana": "オウトスイドエ"
+  },
+  {
+    "english": "between",
+    "japanese": "",
+    "ipa": "/betwən/",
+    "katakana": "ブエトワエエン"
+  },
+  {
+    "english": "among",
+    "japanese": "",
+    "ipa": "/æmoʊng/",
+    "katakana": "アムオング"
+  },
+  {
+    "english": "before",
+    "japanese": "",
+    "ipa": "/befoʊre/",
+    "katakana": "ブエフオルエ"
+  },
+  {
+    "english": "after",
+    "japanese": "",
+    "ipa": "/æfter/",
+    "katakana": "アフトアル"
+  },
+  {
+    "english": "during",
+    "japanese": "",
+    "ipa": "/dəriːng/",
+    "katakana": "ドウルイング"
+  },
+  {
+    "english": "while",
+    "japanese": "",
+    "ipa": "/whiːle/",
+    "katakana": "ワハイルエ"
+  },
+  {
+    "english": "since",
+    "japanese": "",
+    "ipa": "/siːnse/",
+    "katakana": "スインクエ"
+  },
+  {
+    "english": "until",
+    "japanese": "",
+    "ipa": "/əntiːl/",
+    "katakana": "ウントイル"
+  },
+  {
+    "english": "because",
+    "japanese": "",
+    "ipa": "/bekəse/",
+    "katakana": "ブエクアウスエ"
+  },
+  {
+    "english": "so",
+    "japanese": "",
+    "ipa": "/soʊ/",
+    "katakana": "スオ"
+  },
+  {
+    "english": "but",
+    "japanese": "",
+    "ipa": "/bət/",
+    "katakana": "ブウト"
+  },
+  {
+    "english": "and",
+    "japanese": "",
+    "ipa": "/ænd/",
+    "katakana": "アンド"
+  },
+  {
+    "english": "or",
+    "japanese": "",
+    "ipa": "/oʊr/",
+    "katakana": "アル"
+  },
+  {
+    "english": "if",
+    "japanese": "",
+    "ipa": "/iːf/",
+    "katakana": "イフ"
+  },
+  {
+    "english": "though",
+    "japanese": "",
+    "ipa": "/thaʊ/",
+    "katakana": "スオ"
+  },
+  {
+    "english": "although",
+    "japanese": "",
+    "ipa": "/ælthaʊ/",
+    "katakana": "アルスオ"
+  },
+  {
+    "english": "however",
+    "japanese": "",
+    "ipa": "/hoʊwever/",
+    "katakana": "ハオウエヴアル"
+  },
+  {
+    "english": "therefore",
+    "japanese": "",
+    "ipa": "/therefoʊre/",
+    "katakana": "スエルエフオルエ"
+  },
+  {
+    "english": "also",
+    "japanese": "",
+    "ipa": "/ælsoʊ/",
+    "katakana": "アルスオ"
+  },
+  {
+    "english": "too",
+    "japanese": "",
+    "ipa": "/tuː/",
+    "katakana": "トウ"
+  },
+  {
+    "english": "very",
+    "japanese": "",
+    "ipa": "/veriː/",
+    "katakana": "ヴエルイ"
+  },
+  {
+    "english": "quite",
+    "japanese": "",
+    "ipa": "/kwiːte/",
+    "katakana": "クイトエ"
+  },
+  {
+    "english": "almost",
+    "japanese": "",
+    "ipa": "/ælmoʊst/",
+    "katakana": "アルムオスト"
+  },
+  {
+    "english": "already",
+    "japanese": "",
+    "ipa": "/ælrədiː/",
+    "katakana": "アルルイドイ"
+  },
+  {
+    "english": "yet",
+    "japanese": "",
+    "ipa": "/iːt/",
+    "katakana": "イエト"
+  },
+  {
+    "english": "still",
+    "japanese": "",
+    "ipa": "/stiːll/",
+    "katakana": "ストイルル"
+  },
+  {
+    "english": "ever",
+    "japanese": "",
+    "ipa": "/ever/",
+    "katakana": "エヴアル"
+  },
+  {
+    "english": "never",
+    "japanese": "",
+    "ipa": "/never/",
+    "katakana": "ンエヴアル"
+  },
+  {
+    "english": "sometimes",
+    "japanese": "",
+    "ipa": "/soʊmetiːmes/",
+    "katakana": "スオムエトイムエス"
+  },
+  {
+    "english": "often",
+    "japanese": "",
+    "ipa": "/oʊften/",
+    "katakana": "オフトエン"
+  },
+  {
+    "english": "usually",
+    "japanese": "",
+    "ipa": "/əsəlliː/",
+    "katakana": "ウスウアルルイ"
+  },
+  {
+    "english": "rarely",
+    "japanese": "",
+    "ipa": "/ræreliː/",
+    "katakana": "ルアルエルイ"
+  },
+  {
+    "english": "always",
+    "japanese": "",
+    "ipa": "/ælwiːs/",
+    "katakana": "アルワエイス"
+  },
+  {
+    "english": "sometimes",
+    "japanese": "",
+    "ipa": "/soʊmetiːmes/",
+    "katakana": "スオムエトイムエス"
+  },
+  {
+    "english": "together",
+    "japanese": "",
+    "ipa": "/toʊgether/",
+    "katakana": "トオグエズアル"
+  },
+  {
+    "english": "alone",
+    "japanese": "",
+    "ipa": "/æloʊne/",
+    "katakana": "アルオンエ"
+  },
+  {
+    "english": "each",
+    "japanese": "",
+    "ipa": "/əkh/",
+    "katakana": "イチ"
+  },
+  {
+    "english": "every",
+    "japanese": "",
+    "ipa": "/everiː/",
+    "katakana": "エヴエルイ"
+  },
+  {
+    "english": "all",
+    "japanese": "",
+    "ipa": "/æll/",
+    "katakana": "アルル"
+  },
+  {
+    "english": "some",
+    "japanese": "",
+    "ipa": "/soʊme/",
+    "katakana": "スオムエ"
+  },
+  {
+    "english": "many",
+    "japanese": "",
+    "ipa": "/mæniː/",
+    "katakana": "ムアンイ"
+  },
+  {
+    "english": "few",
+    "japanese": "",
+    "ipa": "/few/",
+    "katakana": "フエワ"
+  },
+  {
+    "english": "several",
+    "japanese": "",
+    "ipa": "/severæl/",
+    "katakana": "スエヴエルアル"
+  },
+  {
+    "english": "most",
+    "japanese": "",
+    "ipa": "/moʊst/",
+    "katakana": "ムオスト"
+  },
+  {
+    "english": "least",
+    "japanese": "",
+    "ipa": "/ləst/",
+    "katakana": "ルイスト"
+  },
+  {
+    "english": "first",
+    "japanese": "",
+    "ipa": "/fiːrst/",
+    "katakana": "フイルスト"
+  },
+  {
+    "english": "second",
+    "japanese": "",
+    "ipa": "/sekoʊnd/",
+    "katakana": "スエクオンド"
+  },
+  {
+    "english": "third",
+    "japanese": "",
+    "ipa": "/thiːrd/",
+    "katakana": "スイルド"
+  },
+  {
+    "english": "next",
+    "japanese": "",
+    "ipa": "/nekst/",
+    "katakana": "ンエクスト"
+  },
+  {
+    "english": "last",
+    "japanese": "",
+    "ipa": "/læst/",
+    "katakana": "ルアスト"
+  },
+  {
+    "english": "finally",
+    "japanese": "",
+    "ipa": "/fiːnælliː/",
+    "katakana": "フインアルルイ"
+  },
+  {
+    "english": "kill time",
+    "japanese": "時間をつぶす",
+    "ipa": "/kiːll/ /tiːme/",
+    "katakana": "クイルル・トイムエ"
+  },
+  {
+    "english": "never mind",
+    "japanese": "気にしないで",
+    "ipa": "/never/ /miːnd/",
+    "katakana": "ンエヴアル・ムインド"
+  },
+  {
+    "english": "take it easy",
+    "japanese": "落ち着いて",
+    "ipa": "/tæke/ /iːt/ /əsiː/",
+    "katakana": "トアクエ・イト・イスイ"
+  },
+  {
+    "english": "kill two birds with one stone",
+    "japanese": "",
+    "ipa": "/kiːll/ /twoʊ/ /biːrds/ /wiːth/ /oʊne/ /stoʊne/",
+    "katakana": "クイルル・トワオ・ブイルドス・ワイス・オンエ・ストオンエ"
+  },
+  {
+    "english": "lend a hand",
+    "japanese": "手を貸す",
+    "ipa": "/lend/ /æ/ /hænd/",
+    "katakana": "ルエンド・ア・ハアンド"
+  },
+  {
+    "english": "be late",
+    "japanese": "遅刻する",
+    "ipa": "/be/ /læte/",
+    "katakana": "ブエ・ルアトエ"
+  },
+  {
+    "english": "get lost",
+    "japanese": "道に迷う",
+    "ipa": "/get/ /loʊst/",
+    "katakana": "グエト・ルオスト"
+  },
+  {
+    "english": "ask a favor",
+    "japanese": "お願いする",
+    "ipa": "/æsk/ /æ/ /fævoʊr/",
+    "katakana": "アスク・ア・フアヴアル"
+  },
+  {
+    "english": "good luck",
+    "japanese": "頑張って",
+    "ipa": "/ɡʊd/ /ləkk/",
+    "katakana": "グウド・ルウク"
+  },
+  {
+    "english": "take care",
+    "japanese": "気をつけて",
+    "ipa": "/tæke/ /kære/",
+    "katakana": "トアクエ・クアルエ"
+  },
+  {
+    "english": "break the ice",
+    "japanese": "場を和ませる",
+    "ipa": "/brək/ /the/ /iːse/",
+    "katakana": "ブルイク・ズア・イクエ"
+  },
+  {
+    "english": "call it a day",
+    "japanese": "",
+    "ipa": "/kæll/ /iːt/ /æ/ /diː/",
+    "katakana": "クアルル・イト・ア・ドエイ"
+  },
+  {
+    "english": "beat around the bush",
+    "japanese": "遠回しに言う",
+    "ipa": "/bət/ /æraʊnd/ /the/ /bəsh/",
+    "katakana": "ブイト・アルオウンド・ズア・ブウシュ"
+  },
+  {
+    "english": "bite the bullet",
+    "japanese": "苦しい決断をする",
+    "ipa": "/biːte/ /the/ /bəllet/",
+    "katakana": "ブイトエ・ズア・ブウルルエト"
+  },
+  {
+    "english": "cut corners",
+    "japanese": "",
+    "ipa": "/kət/ /koʊrners/",
+    "katakana": "クウト・クオルンエルス"
+  },
+  {
+    "english": "hit the hay",
+    "japanese": "寝る",
+    "ipa": "/hiːt/ /the/ /hiː/",
+    "katakana": "ハイト・ズア・ハエイ"
+  },
+  {
+    "english": "hit the road",
+    "japanese": "出発する",
+    "ipa": "/hiːt/ /the/ /roʊd/",
+    "katakana": "ハイト・ズア・ルオアド"
+  },
+  {
+    "english": "pull someone",
+    "japanese": "",
+    "ipa": "/pəll/ /soʊmoʊne/",
+    "katakana": "プウルル・スオムエオンエ"
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": "s nose",
+    "japanese": "",
+    "ipa": "/s/ /noʊse/",
+    "katakana": "ス・ンオスエ"
+  },
+  {
+    "english": "up to no good",
+    "japanese": "",
+    "ipa": "/əp/ /toʊ/ /noʊ/ /ɡʊd/",
+    "katakana": "ウプ・トオ・ンオ・グウド"
+  },
+  {
+    "english": "wear your heart on your sleeve",
+    "japanese": "",
+    "ipa": "/wər/ /iːr/ /hərt/ /oʊn/ /iːr/ /sləve/",
+    "katakana": "ワイル・イオウル・ハイルト・オン・イオウル・スルエエヴエ"
+  },
+  {
+    "english": "work like a charm",
+    "japanese": "",
+    "ipa": "/woʊrk/ /liːke/ /æ/ /khærm/",
+    "katakana": "ワオルク・ルイクエ・ア・チアルム"
+  },
+  {
+    "english": "you bet",
+    "japanese": "",
+    "ipa": "/iː/ /bet/",
+    "katakana": "イオウ・ブエト"
+  },
+  {
+    "english": "zero tolerance",
+    "japanese": "",
+    "ipa": "/zeroʊ/ /toʊlerænse/",
+    "katakana": "ズエルオ・トオルエルアンクエ"
+  },
+  {
+    "english": "add fuel to the fire",
+    "japanese": "",
+    "ipa": "/ædd/ /fəl/ /toʊ/ /the/ /fiːre/",
+    "katakana": "アドド・フウエル・トオ・ズア・フイルエ"
+  },
+  {
+    "english": "at the drop of a hat",
+    "japanese": "",
+    "ipa": "/æt/ /the/ /droʊp/ /oʊf/ /æ/ /hæt/",
+    "katakana": "アト・ズア・ドルオプ・オフ・ア・ハアト"
+  },
+  {
+    "english": "backseat driver",
+    "japanese": "",
+    "ipa": "/bækksət/ /driːver/",
+    "katakana": "ブアクスイト・ドルイヴアル"
+  },
+  {
+    "english": "barking up the wrong tree",
+    "japanese": "",
+    "ipa": "/bærkiːng/ /əp/ /the/ /wroʊng/ /trə/",
+    "katakana": "ブアルクイング・ウプ・ズア・ワルオング・チュラエエ"
+  },
+  {
+    "english": "beat a dead horse",
+    "japanese": "",
+    "ipa": "/bət/ /æ/ /dəd/ /hoʊrse/",
+    "katakana": "ブイト・ア・ドイド・ハオルスエ"
+  },
+  {
+    "english": "between a rock and a hard place",
+    "japanese": "",
+    "ipa": "/betwən/ /æ/ /roʊkk/ /ænd/ /æ/ /hærd/ /plæse/",
+    "katakana": "ブエトワエエン・ア・ルオク・アンド・ア・ハアルド・プルアクエ"
+  },
+  {
+    "english": "break even",
+    "japanese": "",
+    "ipa": "/brək/ /even/",
+    "katakana": "ブルイク・エヴエン"
+  },
+  {
+    "english": "call someone",
+    "japanese": "",
+    "ipa": "/kæll/ /soʊmoʊne/",
+    "katakana": "クアルル・スオムエオンエ"
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": "s act together",
+    "japanese": "",
+    "ipa": "/s/ /ækt/ /toʊgether/",
+    "katakana": "ス・アクト・トオグエズアル"
+  },
+  {
+    "english": "give someone a run for their money",
+    "japanese": "",
+    "ipa": "/giːve/ /soʊmoʊne/ /æ/ /rən/ /foʊr/ /thiːr/ /moʊniː/",
+    "katakana": "グイヴエ・スオムエオンエ・ア・ルウン・フアル・スエイル・ムオンエイ"
+  },
+  {
+    "english": "go out on a limb",
+    "japanese": "",
+    "ipa": "/ɡoʊ/ /aʊt/ /oʊn/ /æ/ /liːmb/",
+    "katakana": "グオ・オウト・オン・ア・ルイムブ"
+  },
+  {
+    "english": "have a lot on one",
+    "japanese": "",
+    "ipa": "/hæve/ /æ/ /loʊt/ /oʊn/ /oʊne/",
+    "katakana": "ハアヴエ・ア・ルオト・オン・オンエ"
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": "s fingers crossed",
+    "japanese": "",
+    "ipa": "/s/ /fiːngers/ /kroʊssed/",
+    "katakana": "ス・フイングエルス・クルオススエド"
+  },
+  {
+    "english": "lay it on thick",
+    "japanese": "",
+    "ipa": "/liː/ /iːt/ /oʊn/ /thiːkk/",
+    "katakana": "ルエイ・イト・オン・スイク"
+  },
+  {
+    "english": "make ends meet",
+    "japanese": "",
+    "ipa": "/mæke/ /ends/ /mət/",
+    "katakana": "ムアクエ・エンドス・ムエエト"
+  },
+  {
+    "english": "not my cup of tea",
+    "japanese": "",
+    "ipa": "/noʊt/ /miː/ /kəp/ /oʊf/ /tə/",
+    "katakana": "ンオト・ムイ・クウプ・オフ・トイ"
+  },
+  {
+    "english": "on the fence",
+    "japanese": "",
+    "ipa": "/oʊn/ /the/ /fense/",
+    "katakana": "オン・ズア・フエンクエ"
+  },
+  {
+    "english": "play hard to get",
+    "japanese": "",
+    "ipa": "/pliː/ /hærd/ /toʊ/ /get/",
+    "katakana": "プルエイ・ハアルド・トオ・グエト"
+  },
+  {
+    "english": "put your nose to the grindstone",
+    "japanese": "",
+    "ipa": "/pət/ /iːr/ /noʊse/ /toʊ/ /the/ /griːndstoʊne/",
+    "katakana": "プウト・イオウル・ンオスエ・トオ・ズア・グルインドストオンエ"
+  },
+  {
+    "english": "raise the bar",
+    "japanese": "",
+    "ipa": "/riːse/ /the/ /bær/",
+    "katakana": "ルエイスエ・ズア・ブアル"
+  },
+  {
+    "english": "read between the lines",
+    "japanese": "",
+    "ipa": "/rəd/ /betwən/ /the/ /liːnes/",
+    "katakana": "ルイド・ブエトワエエン・ズア・ルインエス"
+  },
+  {
+    "english": "run out of steam",
+    "japanese": "",
+    "ipa": "/rən/ /aʊt/ /oʊf/ /stəm/",
+    "katakana": "ルウン・オウト・オフ・ストイム"
+  },
+  {
+    "english": "sweep under the rug",
+    "japanese": "",
+    "ipa": "/swəp/ /ənder/ /the/ /rəg/",
+    "katakana": "スワエエプ・ウンドアル・ズア・ルウグ"
+  },
+  {
+    "english": "take someone for granted",
+    "japanese": "",
+    "ipa": "/tæke/ /soʊmoʊne/ /foʊr/ /grænted/",
+    "katakana": "トアクエ・スオムエオンエ・フアル・グルアントエド"
+  },
+  {
+    "english": "test the waters",
+    "japanese": "",
+    "ipa": "/test/ /the/ /wæters/",
+    "katakana": "トエスト・ズア・ワアトエルス"
+  },
+  {
+    "english": "think outside the box",
+    "japanese": "",
+    "ipa": "/thiːnk/ /aʊtsiːde/ /the/ /boʊks/",
+    "katakana": "スインク・オウトスイドエ・ズア・ブオクス"
+  },
+  {
+    "english": "throw in the towel",
+    "japanese": "",
+    "ipa": "/throʊw/ /iːn/ /the/ /toʊwel/",
+    "katakana": "スルオウ・イン・ズア・トオウエル"
+  },
+  {
+    "english": "turn a blind eye",
+    "japanese": "",
+    "ipa": "/tərn/ /æ/ /bliːnd/ /iː/",
+    "katakana": "トウルン・ア・ブルインド・エイエ"
+  },
+  {
+    "english": "up the ante",
+    "japanese": "",
+    "ipa": "/əp/ /the/ /ænte/",
+    "katakana": "ウプ・ズア・アントエ"
+  },
+  {
+    "english": "wash one",
+    "japanese": "",
+    "ipa": "/wæsh/ /oʊne/",
+    "katakana": "ワアシュ・オンエ"
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": "s end",
+    "japanese": "",
+    "ipa": "/s/ /end/",
+    "katakana": "ス・エンド"
+  },
+  {
+    "english": "back to the drawing board",
+    "japanese": "",
+    "ipa": "/bækk/ /toʊ/ /the/ /dræwiːng/ /boʊrd/",
+    "katakana": "ブアク・トオ・ズア・ドルアワイング・ブオアルド"
+  },
+  {
+    "english": "bend over backwards",
+    "japanese": "",
+    "ipa": "/bend/ /oʊver/ /bækkwærds/",
+    "katakana": "ブエンド・オヴアル・ブアクアルドス"
+  },
+  {
+    "english": "bolt from the blue",
+    "japanese": "",
+    "ipa": "/boʊlt/ /froʊm/ /the/ /blə/",
+    "katakana": "ブオルト・フルオム・ズア・ブルウエ"
+  },
+  {
+    "english": "bring home the bacon",
+    "japanese": "",
+    "ipa": "/briːng/ /hoʊme/ /the/ /bækoʊn/",
+    "katakana": "ブルイング・ハオムエ・ズア・ブアクオン"
+  },
+  {
+    "english": "by and large",
+    "japanese": "",
+    "ipa": "/biː/ /ænd/ /lærge/",
+    "katakana": "ブイ・アンド・ルアルグエ"
+  },
+  {
+    "english": "call it even",
+    "japanese": "",
+    "ipa": "/kæll/ /iːt/ /even/",
+    "katakana": "クアルル・イト・エヴエン"
+  },
+  {
+    "english": "clear the air",
+    "japanese": "",
+    "ipa": "/klər/ /the/ /iːr/",
+    "katakana": "クルイル・ズア・エイル"
+  },
+  {
+    "english": "come to terms",
+    "japanese": "",
+    "ipa": "/koʊme/ /toʊ/ /terms/",
+    "katakana": "クオムエ・トオ・トエルムス"
+  },
+  {
+    "english": "cut one",
+    "japanese": "",
+    "ipa": "/kət/ /oʊne/",
+    "katakana": "クウト・オンエ"
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": "s best",
+    "japanese": "",
+    "ipa": "/s/ /best/",
+    "katakana": "ス・ブエスト"
+  },
+  {
+    "english": "face up to",
+    "japanese": "",
+    "ipa": "/fæse/ /əp/ /toʊ/",
+    "katakana": "フアクエ・ウプ・トオ"
+  },
+  {
+    "english": "fall through",
+    "japanese": "",
+    "ipa": "/fæll/ /thraʊ/",
+    "katakana": "フアルル・スルオ"
+  },
+  {
+    "english": "get to the bottom of",
+    "japanese": "",
+    "ipa": "/get/ /toʊ/ /the/ /boʊttoʊm/ /oʊf/",
+    "katakana": "グエト・トオ・ズア・ブオトトオム・オフ"
+  },
+  {
+    "english": "give someone the benefit of the doubt",
+    "japanese": "",
+    "ipa": "/giːve/ /soʊmoʊne/ /the/ /benefiːt/ /oʊf/ /the/ /daʊbt/",
+    "katakana": "グイヴエ・スオムエオンエ・ズア・ブエンエフイト・オフ・ズア・ドオウブト"
+  },
+  {
+    "english": "have a chip on one",
+    "japanese": "",
+    "ipa": "/hæve/ /æ/ /khiːp/ /oʊn/ /oʊne/",
+    "katakana": "ハアヴエ・ア・チイプ・オン・オンエ"
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": "s mouth out",
+    "japanese": "",
+    "ipa": "/s/ /maʊth/ /aʊt/",
+    "katakana": "ス・ムオウス・オウト"
+  },
+  {
+    "english": "wet behind the ears",
+    "japanese": "",
+    "ipa": "/wet/ /behiːnd/ /the/ /ərs/",
+    "katakana": "ワエト・ブエハインド・ズア・イルス"
+  },
+  {
+    "english": "word of mouth",
+    "japanese": "",
+    "ipa": "/woʊrd/ /oʊf/ /maʊth/",
+    "katakana": "ワオルド・オフ・ムオウス"
+  },
+  {
+    "english": "you can",
+    "japanese": "",
+    "ipa": "/iː/ /kæn/",
+    "katakana": "イオウ・クアン"
+  },
+  {
+    "english": "apple",
+    "japanese": "りんご",
+    "ipa": "/ˈæp.əl/",
+    "katakana": "アププルエ"
+  },
+  {
+    "english": "water",
+    "japanese": "水",
+    "ipa": "/ˈwɔː.tər/",
+    "katakana": "ワアトアル"
+  },
+  {
+    "english": "eat",
+    "japanese": "食べる",
+    "ipa": "/iːt/",
+    "katakana": "イト"
+  },
+  {
+    "english": "go",
+    "japanese": "行く",
+    "ipa": "/ɡoʊ/",
+    "katakana": "グオ"
+  },
+  {
+    "english": "see",
+    "japanese": "見る",
+    "ipa": "/siː/",
+    "katakana": "スエエ"
+  },
+  {
+    "english": "thank you",
+    "japanese": "ありがとう",
+    "ipa": "/thænk/ /iː/",
+    "katakana": "スアンク・イオウ"
+  },
+  {
+    "english": "excuse me",
+    "japanese": "すみません",
+    "ipa": "/ekskəse/ /me/",
+    "katakana": "エクスクウスエ・ムエ"
+  },
+  {
+    "english": "hello",
+    "japanese": "こんにちは",
+    "ipa": "/həˈloʊ/",
+    "katakana": "ハエルルオ"
+  },
+  {
+    "english": "good",
+    "japanese": "良い",
+    "ipa": "/ɡʊd/",
+    "katakana": "グウド"
+  },
+  {
+    "english": "bad",
+    "japanese": "悪い",
+    "ipa": "/bæd/",
+    "katakana": "ブアド"
+  },
+  {
+    "english": "yes",
+    "japanese": "はい",
+    "ipa": "/jɛs/",
+    "katakana": "イエス"
+  },
+  {
+    "english": "no",
+    "japanese": "いいえ",
+    "ipa": "/noʊ/",
+    "katakana": "ンオ"
+  },
+  {
+    "english": "please",
+    "japanese": "お願いします",
+    "ipa": "/pliːz/",
+    "katakana": "プルイスエ"
+  },
+  {
+    "english": "help",
+    "japanese": "助けて",
+    "ipa": "/help/",
+    "katakana": "ハエルプ"
+  },
+  {
+    "english": "today",
+    "japanese": "今日",
+    "ipa": "/toʊdiː/",
+    "katakana": "トオドエイ"
+  },
+  {
+    "english": "tomorrow",
+    "japanese": "明日",
+    "ipa": "/toʊmoʊrroʊw/",
+    "katakana": "トオムオルルオウ"
+  },
+  {
+    "english": "yesterday",
+    "japanese": "昨日",
+    "ipa": "/iːsterdiː/",
+    "katakana": "イエストエルドエイ"
+  },
+  {
+    "english": "time",
+    "japanese": "時間",
+    "ipa": "/tiːme/",
+    "katakana": "トイムエ"
+  },
+  {
+    "english": "day",
+    "japanese": "日",
+    "ipa": "/diː/",
+    "katakana": "ドエイ"
+  },
+  {
+    "english": "night",
+    "japanese": "夜",
+    "ipa": "/niːt/",
+    "katakana": "ンイグハト"
+  },
+  {
+    "english": "morning",
+    "japanese": "",
+    "ipa": "/moʊrniːng/",
+    "katakana": "ムオルンイング"
+  },
+  {
+    "english": "evening",
+    "japanese": "",
+    "ipa": "/eveniːng/",
+    "katakana": "エヴエンイング"
+  },
+  {
+    "english": "friend",
+    "japanese": "友達",
+    "ipa": "/friːnd/",
+    "katakana": "フルイエンド"
+  },
+  {
+    "english": "family",
+    "japanese": "家族",
+    "ipa": "/fæmiːliː/",
+    "katakana": "フアムイルイ"
+  },
+  {
+    "english": "school",
+    "japanese": "学校",
+    "ipa": "/skhuːl/",
+    "katakana": "スチウル"
+  },
+  {
+    "english": "work",
+    "japanese": "仕事",
+    "ipa": "/woʊrk/",
+    "katakana": "ワオルク"
+  },
+  {
+    "english": "home",
+    "japanese": "家",
+    "ipa": "/hoʊme/",
+    "katakana": "ハオムエ"
+  },
+  {
+    "english": "house",
+    "japanese": "家屋",
+    "ipa": "/haʊse/",
+    "katakana": "ハオウスエ"
+  },
+  {
+    "english": "car",
+    "japanese": "車",
+    "ipa": "/kær/",
+    "katakana": "クアル"
+  },
+  {
+    "english": "bus",
+    "japanese": "バス",
+    "ipa": "/bəs/",
+    "katakana": "ブウス"
+  },
+  {
+    "english": "train",
+    "japanese": "電車",
+    "ipa": "/triːn/",
+    "katakana": "チュラエイン"
+  },
+  {
+    "english": "run",
+    "japanese": "走る",
+    "ipa": "/rən/",
+    "katakana": "ルウン"
+  },
+  {
+    "english": "walk",
+    "japanese": "歩く",
+    "ipa": "/wælk/",
+    "katakana": "ワアルク"
+  },
+  {
+    "english": "come",
+    "japanese": "来る",
+    "ipa": "/koʊme/",
+    "katakana": "クオムエ"
+  },
+  {
+    "english": "make",
+    "japanese": "作る",
+    "ipa": "/mæke/",
+    "katakana": "ムアクエ"
+  },
+  {
+    "english": "do",
+    "japanese": "する",
+    "ipa": "/doʊ/",
+    "katakana": "ドオ"
+  },
+  {
+    "english": "have",
+    "japanese": "持つ",
+    "ipa": "/hæve/",
+    "katakana": "ハアヴエ"
+  },
+  {
+    "english": "need",
+    "japanese": "必要",
+    "ipa": "/nəd/",
+    "katakana": "ンエエド"
+  },
+  {
+    "english": "want",
+    "japanese": "欲しい",
+    "ipa": "/wænt/",
+    "katakana": "ワアント"
+  },
+  {
+    "english": "like",
+    "japanese": "好き",
+    "ipa": "/liːke/",
+    "katakana": "ルイクエ"
+  },
+  {
+    "english": "love",
+    "japanese": "愛する",
+    "ipa": "/loʊve/",
+    "katakana": "ルオヴエ"
+  },
+  {
+    "english": "know",
+    "japanese": "知る",
+    "ipa": "/knoʊw/",
+    "katakana": "クンオウ"
+  },
+  {
+    "english": "think",
+    "japanese": "考える",
+    "ipa": "/thiːnk/",
+    "katakana": "スインク"
+  },
+  {
+    "english": "say",
+    "japanese": "言う",
+    "ipa": "/siː/",
+    "katakana": "スエイ"
+  },
+  {
+    "english": "tell",
+    "japanese": "",
+    "ipa": "/tell/",
+    "katakana": "トエルル"
+  },
+  {
+    "english": "ask",
+    "japanese": "尋ねる",
+    "ipa": "/æsk/",
+    "katakana": "アスク"
+  },
+  {
+    "english": "answer",
+    "japanese": "答える",
+    "ipa": "/ænswer/",
+    "katakana": "アンスワアル"
+  },
+  {
+    "english": "buy",
+    "japanese": "買う",
+    "ipa": "/biː/",
+    "katakana": "ブウイ"
+  },
+  {
+    "english": "sell",
+    "japanese": "売る",
+    "ipa": "/sell/",
+    "katakana": "スエルル"
+  },
+  {
+    "english": "pay",
+    "japanese": "支払う",
+    "ipa": "/piː/",
+    "katakana": "プエイ"
+  },
+  {
+    "english": "read",
+    "japanese": "読む",
+    "ipa": "/rəd/",
+    "katakana": "ルイド"
+  },
+  {
+    "english": "write",
+    "japanese": "書く",
+    "ipa": "/wriːte/",
+    "katakana": "ワルイトエ"
+  },
+  {
+    "english": "listen",
+    "japanese": "聞く",
+    "ipa": "/liːsten/",
+    "katakana": "ルイストエン"
+  },
+  {
+    "english": "speak",
+    "japanese": "話す",
+    "ipa": "/spək/",
+    "katakana": "スプイク"
+  },
+  {
+    "english": "watch",
+    "japanese": "",
+    "ipa": "/wætkh/",
+    "katakana": "ワアトチ"
+  },
+  {
+    "english": "sleep",
+    "japanese": "眠る",
+    "ipa": "/sləp/",
+    "katakana": "スルエエプ"
+  },
+  {
+    "english": "wake up",
+    "japanese": "",
+    "ipa": "/wæke/ /əp/",
+    "katakana": "ワアクエ・ウプ"
+  },
+  {
+    "english": "open",
+    "japanese": "開ける",
+    "ipa": "/oʊpen/",
+    "katakana": "オプエン"
+  },
+  {
+    "english": "close",
+    "japanese": "閉める",
+    "ipa": "/kloʊse/",
+    "katakana": "クルオスエ"
+  },
+  {
+    "english": "start",
+    "japanese": "始める",
+    "ipa": "/stært/",
+    "katakana": "ストアルト"
+  },
+  {
+    "english": "finish",
+    "japanese": "終える",
+    "ipa": "/fiːniːsh/",
+    "katakana": "フインイシュ"
+  },
+  {
+    "english": "stop",
+    "japanese": "止める",
+    "ipa": "/stoʊp/",
+    "katakana": "ストオプ"
+  },
+  {
+    "english": "play",
+    "japanese": "遊ぶ",
+    "ipa": "/pliː/",
+    "katakana": "プルエイ"
+  },
+  {
+    "english": "watch out",
+    "japanese": "",
+    "ipa": "/wætkh/ /aʊt/",
+    "katakana": "ワアトチ・オウト"
+  },
+  {
+    "english": "look",
+    "japanese": "見る",
+    "ipa": "/luːk/",
+    "katakana": "ルウク"
+  },
+  {
+    "english": "use",
+    "japanese": "使う",
+    "ipa": "/əse/",
+    "katakana": "ウスエ"
+  },
+  {
+    "english": "find",
+    "japanese": "見つける",
+    "ipa": "/fiːnd/",
+    "katakana": "フインド"
+  },
+  {
+    "english": "lose",
+    "japanese": "失う",
+    "ipa": "/loʊse/",
+    "katakana": "ルオスエ"
+  },
+  {
+    "english": "wait",
+    "japanese": "待つ",
+    "ipa": "/wiːt/",
+    "katakana": "ワエイト"
+  },
+  {
+    "english": "stay",
+    "japanese": "滞在する",
+    "ipa": "/stiː/",
+    "katakana": "ストエイ"
+  },
+  {
+    "english": "leave",
+    "japanese": "去る",
+    "ipa": "/ləve/",
+    "katakana": "ルイヴエ"
+  },
+  {
+    "english": "move",
+    "japanese": "動く",
+    "ipa": "/moʊve/",
+    "katakana": "ムオヴエ"
+  },
+  {
+    "english": "sit",
+    "japanese": "座る",
+    "ipa": "/siːt/",
+    "katakana": "スイト"
+  },
+  {
+    "english": "stand",
+    "japanese": "立つ",
+    "ipa": "/stænd/",
+    "katakana": "ストアンド"
+  },
+  {
+    "english": "talk",
+    "japanese": "話す",
+    "ipa": "/tælk/",
+    "katakana": "トアルク"
+  },
+  {
+    "english": "call",
+    "japanese": "呼ぶ",
+    "ipa": "/kæll/",
+    "katakana": "クアルル"
+  },
+  {
+    "english": "meet",
+    "japanese": "会う",
+    "ipa": "/mət/",
+    "katakana": "ムエエト"
+  },
+  {
+    "english": "bring",
+    "japanese": "持ってくる",
+    "ipa": "/briːng/",
+    "katakana": "ブルイング"
+  },
+  {
+    "english": "take",
+    "japanese": "取る",
+    "ipa": "/tæke/",
+    "katakana": "トアクエ"
+  },
+  {
+    "english": "give",
+    "japanese": "与える",
+    "ipa": "/giːve/",
+    "katakana": "グイヴエ"
+  },
+  {
+    "english": "show",
+    "japanese": "見せる",
+    "ipa": "/shoʊw/",
+    "katakana": "シュオウ"
+  },
+  {
+    "english": "build",
+    "japanese": "",
+    "ipa": "/biːld/",
+    "katakana": "ブウイルド"
+  },
+  {
+    "english": "break",
+    "japanese": "",
+    "ipa": "/brək/",
+    "katakana": "ブルイク"
+  },
+  {
+    "english": "fix",
+    "japanese": "",
+    "ipa": "/fiːks/",
+    "katakana": "フイクス"
+  },
+  {
+    "english": "clean",
+    "japanese": "",
+    "ipa": "/klən/",
+    "katakana": "クルイン"
+  },
+  {
+    "english": "cook",
+    "japanese": "",
+    "ipa": "/kuːk/",
+    "katakana": "クウク"
+  },
+  {
+    "english": "drink",
+    "japanese": "",
+    "ipa": "/driːnk/",
+    "katakana": "ドルインク"
+  },
+  {
+    "english": "study",
+    "japanese": "",
+    "ipa": "/stədiː/",
+    "katakana": "ストウドイ"
+  },
+  {
+    "english": "teach",
+    "japanese": "",
+    "ipa": "/təkh/",
+    "katakana": "トイチ"
+  },
+  {
+    "english": "learn",
+    "japanese": "",
+    "ipa": "/lərn/",
+    "katakana": "ルイルン"
+  },
+  {
+    "english": "change",
+    "japanese": "",
+    "ipa": "/khænge/",
+    "katakana": "チアングエ"
+  },
+  {
+    "english": "try",
+    "japanese": "",
+    "ipa": "/triː/",
+    "katakana": "チュライ"
+  },
+  {
+    "english": "choose",
+    "japanese": "",
+    "ipa": "/khuːse/",
+    "katakana": "チウスエ"
+  },
+  {
+    "english": "remember",
+    "japanese": "",
+    "ipa": "/remember/",
+    "katakana": "ルエムエムブアル"
+  },
+  {
+    "english": "forget",
+    "japanese": "",
+    "ipa": "/foʊrget/",
+    "katakana": "フオルグエト"
+  },
+  {
+    "english": "believe",
+    "japanese": "",
+    "ipa": "/beliːve/",
+    "katakana": "ブエルイエヴエ"
+  },
+  {
+    "english": "hope",
+    "japanese": "",
+    "ipa": "/hoʊpe/",
+    "katakana": "ハオプエ"
+  },
+  {
+    "english": "plan",
+    "japanese": "",
+    "ipa": "/plæn/",
+    "katakana": "プルアン"
+  },
+  {
+    "english": "travel",
+    "japanese": "",
+    "ipa": "/trævel/",
+    "katakana": "チュラアヴエル"
+  },
+  {
+    "english": "visit",
+    "japanese": "",
+    "ipa": "/viːsiːt/",
+    "katakana": "ヴイスイト"
+  },
+  {
+    "english": "stay",
+    "japanese": "滞在する",
+    "ipa": "/stiː/",
+    "katakana": "ストエイ"
+  },
+  {
+    "english": "return",
+    "japanese": "",
+    "ipa": "/retərn/",
+    "katakana": "ルエトウルン"
+  },
+  {
+    "english": "arrive",
+    "japanese": "",
+    "ipa": "/ærriːve/",
+    "katakana": "アルルイヴエ"
+  },
+  {
+    "english": "depart",
+    "japanese": "",
+    "ipa": "/depært/",
+    "katakana": "ドエプアルト"
+  },
+  {
+    "english": "begin",
+    "japanese": "",
+    "ipa": "/begiːn/",
+    "katakana": "ブエグイン"
+  },
+  {
+    "english": "end",
+    "japanese": "",
+    "ipa": "/end/",
+    "katakana": "エンド"
+  },
+  {
+    "english": "helpful",
+    "japanese": "",
+    "ipa": "/helpfəl/",
+    "katakana": "ハエルプフウル"
+  },
+  {
+    "english": "important",
+    "japanese": "",
+    "ipa": "/iːmpoʊrtænt/",
+    "katakana": "イムプオルトアント"
+  },
+  {
+    "english": "easy",
+    "japanese": "",
+    "ipa": "/əsiː/",
+    "katakana": "イスイ"
+  },
+  {
+    "english": "difficult",
+    "japanese": "",
+    "ipa": "/diːffiːkəlt/",
+    "katakana": "ドイフフイクウルト"
+  },
+  {
+    "english": "fast",
+    "japanese": "",
+    "ipa": "/fæst/",
+    "katakana": "フアスト"
+  },
+  {
+    "english": "slow",
+    "japanese": "",
+    "ipa": "/sloʊw/",
+    "katakana": "スルオウ"
+  },
+  {
+    "english": "early",
+    "japanese": "",
+    "ipa": "/ərliː/",
+    "katakana": "イルルイ"
+  },
+  {
+    "english": "late",
+    "japanese": "",
+    "ipa": "/læte/",
+    "katakana": "ルアトエ"
+  },
+  {
+    "english": "young",
+    "japanese": "",
+    "ipa": "/iːng/",
+    "katakana": "イオウング"
+  },
+  {
+    "english": "old",
+    "japanese": "",
+    "ipa": "/oʊld/",
+    "katakana": "オルド"
+  },
+  {
+    "english": "big",
+    "japanese": "",
+    "ipa": "/biːg/",
+    "katakana": "ブイグ"
+  },
+  {
+    "english": "small",
+    "japanese": "",
+    "ipa": "/smæll/",
+    "katakana": "スムアルル"
+  },
+  {
+    "english": "long",
+    "japanese": "",
+    "ipa": "/loʊng/",
+    "katakana": "ルオング"
+  },
+  {
+    "english": "short",
+    "japanese": "",
+    "ipa": "/shoʊrt/",
+    "katakana": "シュオルト"
+  },
+  {
+    "english": "high",
+    "japanese": "",
+    "ipa": "/hiː/",
+    "katakana": "ハイグハ"
+  },
+  {
+    "english": "low",
+    "japanese": "",
+    "ipa": "/loʊw/",
+    "katakana": "ルオウ"
+  },
+  {
+    "english": "heavy",
+    "japanese": "",
+    "ipa": "/həviː/",
+    "katakana": "ハイヴイ"
+  },
+  {
+    "english": "light",
+    "japanese": "",
+    "ipa": "/liːt/",
+    "katakana": "ルイグハト"
+  },
+  {
+    "english": "hot",
+    "japanese": "",
+    "ipa": "/hoʊt/",
+    "katakana": "ハオト"
+  },
+  {
+    "english": "cold",
+    "japanese": "",
+    "ipa": "/koʊld/",
+    "katakana": "クオルド"
+  },
+  {
+    "english": "warm",
+    "japanese": "",
+    "ipa": "/wærm/",
+    "katakana": "ワアルム"
+  },
+  {
+    "english": "cool",
+    "japanese": "",
+    "ipa": "/kuːl/",
+    "katakana": "クウル"
+  },
+  {
+    "english": "new",
+    "japanese": "",
+    "ipa": "/new/",
+    "katakana": "ンエワ"
+  },
+  {
+    "english": "old",
+    "japanese": "",
+    "ipa": "/oʊld/",
+    "katakana": "オルド"
+  },
+  {
+    "english": "cheap",
+    "japanese": "",
+    "ipa": "/khəp/",
+    "katakana": "チイプ"
+  },
+  {
+    "english": "expensive",
+    "japanese": "",
+    "ipa": "/ekspensiːve/",
+    "katakana": "エクスプエンスイヴエ"
+  },
+  {
+    "english": "rich",
+    "japanese": "",
+    "ipa": "/riːkh/",
+    "katakana": "ルイチ"
+  },
+  {
+    "english": "poor",
+    "japanese": "",
+    "ipa": "/puːr/",
+    "katakana": "プウル"
+  },
+  {
+    "english": "happy",
+    "japanese": "",
+    "ipa": "/hæppiː/",
+    "katakana": "ハアププイ"
+  },
+  {
+    "english": "sad",
+    "japanese": "",
+    "ipa": "/sæd/",
+    "katakana": "スアド"
+  },
+  {
+    "english": "angry",
+    "japanese": "",
+    "ipa": "/ængriː/",
+    "katakana": "アングルイ"
+  },
+  {
+    "english": "tired",
+    "japanese": "",
+    "ipa": "/tiːred/",
+    "katakana": "トイルエド"
+  },
+  {
+    "english": "bored",
+    "japanese": "",
+    "ipa": "/boʊred/",
+    "katakana": "ブオルエド"
+  },
+  {
+    "english": "busy",
+    "japanese": "",
+    "ipa": "/bəsiː/",
+    "katakana": "ブウスイ"
+  },
+  {
+    "english": "free",
+    "japanese": "",
+    "ipa": "/frə/",
+    "katakana": "フルエエ"
+  },
+  {
+    "english": "safe",
+    "japanese": "",
+    "ipa": "/sæfe/",
+    "katakana": "スアフエ"
+  },
+  {
+    "english": "dangerous",
+    "japanese": "",
+    "ipa": "/dængeraʊs/",
+    "katakana": "ドアングエルオウス"
+  },
+  {
+    "english": "beautiful",
+    "japanese": "",
+    "ipa": "/bətiːfəl/",
+    "katakana": "ブイウトイフウル"
+  },
+  {
+    "english": "ugly",
+    "japanese": "",
+    "ipa": "/əgliː/",
+    "katakana": "ウグルイ"
+  },
+  {
+    "english": "clean",
+    "japanese": "",
+    "ipa": "/klən/",
+    "katakana": "クルイン"
+  },
+  {
+    "english": "dirty",
+    "japanese": "",
+    "ipa": "/diːrtiː/",
+    "katakana": "ドイルトイ"
+  },
+  {
+    "english": "strong",
+    "japanese": "",
+    "ipa": "/stroʊng/",
+    "katakana": "スチュラオング"
+  },
+  {
+    "english": "weak",
+    "japanese": "",
+    "ipa": "/wək/",
+    "katakana": "ワイク"
+  },
+  {
+    "english": "healthy",
+    "japanese": "",
+    "ipa": "/həlthiː/",
+    "katakana": "ハイルスイ"
+  },
+  {
+    "english": "sick",
+    "japanese": "",
+    "ipa": "/siːkk/",
+    "katakana": "スイク"
+  },
+  {
+    "english": "hungry",
+    "japanese": "",
+    "ipa": "/həngriː/",
+    "katakana": "ハウングルイ"
+  },
+  {
+    "english": "full",
+    "japanese": "",
+    "ipa": "/fəll/",
+    "katakana": "フウルル"
+  },
+  {
+    "english": "thirsty",
+    "japanese": "",
+    "ipa": "/thiːrstiː/",
+    "katakana": "スイルストイ"
+  },
+  {
+    "english": "empty",
+    "japanese": "",
+    "ipa": "/emptiː/",
+    "katakana": "エムプトイ"
+  },
+  {
+    "english": "full",
+    "japanese": "",
+    "ipa": "/fəll/",
+    "katakana": "フウルル"
+  },
+  {
+    "english": "open",
+    "japanese": "開ける",
+    "ipa": "/oʊpen/",
+    "katakana": "オプエン"
+  },
+  {
+    "english": "closed",
+    "japanese": "",
+    "ipa": "/kloʊsed/",
+    "katakana": "クルオスエド"
+  },
+  {
+    "english": "right",
+    "japanese": "",
+    "ipa": "/riːt/",
+    "katakana": "ルイグハト"
+  },
+  {
+    "english": "left",
+    "japanese": "",
+    "ipa": "/left/",
+    "katakana": "ルエフト"
+  },
+  {
+    "english": "straight",
+    "japanese": "",
+    "ipa": "/striːt/",
+    "katakana": "スチュラエイグハト"
+  },
+  {
+    "english": "north",
+    "japanese": "",
+    "ipa": "/noʊrth/",
+    "katakana": "ンオルス"
+  },
+  {
+    "english": "south",
+    "japanese": "",
+    "ipa": "/saʊth/",
+    "katakana": "スオウス"
+  },
+  {
+    "english": "east",
+    "japanese": "",
+    "ipa": "/əst/",
+    "katakana": "イスト"
+  },
+  {
+    "english": "west",
+    "japanese": "",
+    "ipa": "/west/",
+    "katakana": "ワエスト"
+  },
+  {
+    "english": "inside",
+    "japanese": "",
+    "ipa": "/iːnsiːde/",
+    "katakana": "インスイドエ"
+  },
+  {
+    "english": "outside",
+    "japanese": "",
+    "ipa": "/aʊtsiːde/",
+    "katakana": "オウトスイドエ"
+  },
+  {
+    "english": "up",
+    "japanese": "",
+    "ipa": "/əp/",
+    "katakana": "ウプ"
+  },
+  {
+    "english": "down",
+    "japanese": "",
+    "ipa": "/doʊwn/",
+    "katakana": "ドオウン"
+  },
+  {
+    "english": "above",
+    "japanese": "",
+    "ipa": "/æboʊve/",
+    "katakana": "アブオヴエ"
+  },
+  {
+    "english": "below",
+    "japanese": "",
+    "ipa": "/beloʊw/",
+    "katakana": "ブエルオウ"
+  },
+  {
+    "english": "near",
+    "japanese": "",
+    "ipa": "/nər/",
+    "katakana": "ンイル"
+  },
+  {
+    "english": "far",
+    "japanese": "",
+    "ipa": "/fær/",
+    "katakana": "フアル"
+  },
+  {
+    "english": "inside",
+    "japanese": "",
+    "ipa": "/iːnsiːde/",
+    "katakana": "インスイドエ"
+  },
+  {
+    "english": "outside",
+    "japanese": "",
+    "ipa": "/aʊtsiːde/",
+    "katakana": "オウトスイドエ"
+  },
+  {
+    "english": "between",
+    "japanese": "",
+    "ipa": "/betwən/",
+    "katakana": "ブエトワエエン"
+  },
+  {
+    "english": "among",
+    "japanese": "",
+    "ipa": "/æmoʊng/",
+    "katakana": "アムオング"
+  },
+  {
+    "english": "before",
+    "japanese": "",
+    "ipa": "/befoʊre/",
+    "katakana": "ブエフオルエ"
+  },
+  {
+    "english": "after",
+    "japanese": "",
+    "ipa": "/æfter/",
+    "katakana": "アフトアル"
+  },
+  {
+    "english": "during",
+    "japanese": "",
+    "ipa": "/dəriːng/",
+    "katakana": "ドウルイング"
+  },
+  {
+    "english": "while",
+    "japanese": "",
+    "ipa": "/whiːle/",
+    "katakana": "ワハイルエ"
+  },
+  {
+    "english": "since",
+    "japanese": "",
+    "ipa": "/siːnse/",
+    "katakana": "スインクエ"
+  },
+  {
+    "english": "until",
+    "japanese": "",
+    "ipa": "/əntiːl/",
+    "katakana": "ウントイル"
+  },
+  {
+    "english": "because",
+    "japanese": "",
+    "ipa": "/bekəse/",
+    "katakana": "ブエクアウスエ"
+  },
+  {
+    "english": "so",
+    "japanese": "",
+    "ipa": "/soʊ/",
+    "katakana": "スオ"
+  },
+  {
+    "english": "but",
+    "japanese": "",
+    "ipa": "/bət/",
+    "katakana": "ブウト"
+  },
+  {
+    "english": "and",
+    "japanese": "",
+    "ipa": "/ænd/",
+    "katakana": "アンド"
+  },
+  {
+    "english": "or",
+    "japanese": "",
+    "ipa": "/oʊr/",
+    "katakana": "アル"
+  },
+  {
+    "english": "if",
+    "japanese": "",
+    "ipa": "/iːf/",
+    "katakana": "イフ"
+  },
+  {
+    "english": "though",
+    "japanese": "",
+    "ipa": "/thaʊ/",
+    "katakana": "スオ"
+  },
+  {
+    "english": "although",
+    "japanese": "",
+    "ipa": "/ælthaʊ/",
+    "katakana": "アルスオ"
+  },
+  {
+    "english": "however",
+    "japanese": "",
+    "ipa": "/hoʊwever/",
+    "katakana": "ハオウエヴアル"
+  },
+  {
+    "english": "therefore",
+    "japanese": "",
+    "ipa": "/therefoʊre/",
+    "katakana": "スエルエフオルエ"
+  },
+  {
+    "english": "also",
+    "japanese": "",
+    "ipa": "/ælsoʊ/",
+    "katakana": "アルスオ"
+  },
+  {
+    "english": "too",
+    "japanese": "",
+    "ipa": "/tuː/",
+    "katakana": "トウ"
+  },
+  {
+    "english": "very",
+    "japanese": "",
+    "ipa": "/veriː/",
+    "katakana": "ヴエルイ"
+  },
+  {
+    "english": "quite",
+    "japanese": "",
+    "ipa": "/kwiːte/",
+    "katakana": "クイトエ"
+  },
+  {
+    "english": "almost",
+    "japanese": "",
+    "ipa": "/ælmoʊst/",
+    "katakana": "アルムオスト"
+  },
+  {
+    "english": "already",
+    "japanese": "",
+    "ipa": "/ælrədiː/",
+    "katakana": "アルルイドイ"
+  },
+  {
+    "english": "yet",
+    "japanese": "",
+    "ipa": "/iːt/",
+    "katakana": "イエト"
+  },
+  {
+    "english": "still",
+    "japanese": "",
+    "ipa": "/stiːll/",
+    "katakana": "ストイルル"
+  },
+  {
+    "english": "ever",
+    "japanese": "",
+    "ipa": "/ever/",
+    "katakana": "エヴアル"
+  },
+  {
+    "english": "never",
+    "japanese": "",
+    "ipa": "/never/",
+    "katakana": "ンエヴアル"
+  },
+  {
+    "english": "sometimes",
+    "japanese": "",
+    "ipa": "/soʊmetiːmes/",
+    "katakana": "スオムエトイムエス"
+  },
+  {
+    "english": "often",
+    "japanese": "",
+    "ipa": "/oʊften/",
+    "katakana": "オフトエン"
+  },
+  {
+    "english": "usually",
+    "japanese": "",
+    "ipa": "/əsəlliː/",
+    "katakana": "ウスウアルルイ"
+  },
+  {
+    "english": "rarely",
+    "japanese": "",
+    "ipa": "/ræreliː/",
+    "katakana": "ルアルエルイ"
+  },
+  {
+    "english": "always",
+    "japanese": "",
+    "ipa": "/ælwiːs/",
+    "katakana": "アルワエイス"
+  },
+  {
+    "english": "sometimes",
+    "japanese": "",
+    "ipa": "/soʊmetiːmes/",
+    "katakana": "スオムエトイムエス"
+  },
+  {
+    "english": "together",
+    "japanese": "",
+    "ipa": "/toʊgether/",
+    "katakana": "トオグエズアル"
+  },
+  {
+    "english": "alone",
+    "japanese": "",
+    "ipa": "/æloʊne/",
+    "katakana": "アルオンエ"
+  },
+  {
+    "english": "each",
+    "japanese": "",
+    "ipa": "/əkh/",
+    "katakana": "イチ"
+  },
+  {
+    "english": "every",
+    "japanese": "",
+    "ipa": "/everiː/",
+    "katakana": "エヴエルイ"
+  },
+  {
+    "english": "all",
+    "japanese": "",
+    "ipa": "/æll/",
+    "katakana": "アルル"
+  },
+  {
+    "english": "some",
+    "japanese": "",
+    "ipa": "/soʊme/",
+    "katakana": "スオムエ"
+  },
+  {
+    "english": "many",
+    "japanese": "",
+    "ipa": "/mæniː/",
+    "katakana": "ムアンイ"
+  },
+  {
+    "english": "few",
+    "japanese": "",
+    "ipa": "/few/",
+    "katakana": "フエワ"
+  },
+  {
+    "english": "several",
+    "japanese": "",
+    "ipa": "/severæl/",
+    "katakana": "スエヴエルアル"
+  },
+  {
+    "english": "most",
+    "japanese": "",
+    "ipa": "/moʊst/",
+    "katakana": "ムオスト"
+  },
+  {
+    "english": "least",
+    "japanese": "",
+    "ipa": "/ləst/",
+    "katakana": "ルイスト"
+  },
+  {
+    "english": "first",
+    "japanese": "",
+    "ipa": "/fiːrst/",
+    "katakana": "フイルスト"
+  },
+  {
+    "english": "second",
+    "japanese": "",
+    "ipa": "/sekoʊnd/",
+    "katakana": "スエクオンド"
+  },
+  {
+    "english": "third",
+    "japanese": "",
+    "ipa": "/thiːrd/",
+    "katakana": "スイルド"
+  },
+  {
+    "english": "next",
+    "japanese": "",
+    "ipa": "/nekst/",
+    "katakana": "ンエクスト"
+  },
+  {
+    "english": "last",
+    "japanese": "",
+    "ipa": "/læst/",
+    "katakana": "ルアスト"
+  },
+  {
+    "english": "finally",
+    "japanese": "",
+    "ipa": "/fiːnælliː/",
+    "katakana": "フインアルルイ"
+  },
+  {
+    "english": "kill time",
+    "japanese": "時間をつぶす",
+    "ipa": "/kiːll/ /tiːme/",
+    "katakana": "クイルル・トイムエ"
+  },
+  {
+    "english": "never mind",
+    "japanese": "気にしないで",
+    "ipa": "/never/ /miːnd/",
+    "katakana": "ンエヴアル・ムインド"
+  },
+  {
+    "english": "take it easy",
+    "japanese": "落ち着いて",
+    "ipa": "/tæke/ /iːt/ /əsiː/",
+    "katakana": "トアクエ・イト・イスイ"
+  },
+  {
+    "english": "kill two birds with one stone",
+    "japanese": "",
+    "ipa": "/kiːll/ /twoʊ/ /biːrds/ /wiːth/ /oʊne/ /stoʊne/",
+    "katakana": "クイルル・トワオ・ブイルドス・ワイス・オンエ・ストオンエ"
+  },
+  {
+    "english": "lend a hand",
+    "japanese": "手を貸す",
+    "ipa": "/lend/ /æ/ /hænd/",
+    "katakana": "ルエンド・ア・ハアンド"
+  },
+  {
+    "english": "be late",
+    "japanese": "遅刻する",
+    "ipa": "/be/ /læte/",
+    "katakana": "ブエ・ルアトエ"
+  },
+  {
+    "english": "get lost",
+    "japanese": "道に迷う",
+    "ipa": "/get/ /loʊst/",
+    "katakana": "グエト・ルオスト"
+  },
+  {
+    "english": "ask a favor",
+    "japanese": "お願いする",
+    "ipa": "/æsk/ /æ/ /fævoʊr/",
+    "katakana": "アスク・ア・フアヴアル"
+  },
+  {
+    "english": "good luck",
+    "japanese": "頑張って",
+    "ipa": "/ɡʊd/ /ləkk/",
+    "katakana": "グウド・ルウク"
+  },
+  {
+    "english": "take care",
+    "japanese": "気をつけて",
+    "ipa": "/tæke/ /kære/",
+    "katakana": "トアクエ・クアルエ"
+  },
+  {
+    "english": "break the ice",
+    "japanese": "場を和ませる",
+    "ipa": "/brək/ /the/ /iːse/",
+    "katakana": "ブルイク・ズア・イクエ"
+  },
+  {
+    "english": "call it a day",
+    "japanese": "",
+    "ipa": "/kæll/ /iːt/ /æ/ /diː/",
+    "katakana": "クアルル・イト・ア・ドエイ"
+  },
+  {
+    "english": "beat around the bush",
+    "japanese": "遠回しに言う",
+    "ipa": "/bət/ /æraʊnd/ /the/ /bəsh/",
+    "katakana": "ブイト・アルオウンド・ズア・ブウシュ"
+  },
+  {
+    "english": "bite the bullet",
+    "japanese": "苦しい決断をする",
+    "ipa": "/biːte/ /the/ /bəllet/",
+    "katakana": "ブイトエ・ズア・ブウルルエト"
+  },
+  {
+    "english": "cut corners",
+    "japanese": "",
+    "ipa": "/kət/ /koʊrners/",
+    "katakana": "クウト・クオルンエルス"
+  },
+  {
+    "english": "hit the hay",
+    "japanese": "寝る",
+    "ipa": "/hiːt/ /the/ /hiː/",
+    "katakana": "ハイト・ズア・ハエイ"
+  },
+  {
+    "english": "hit the road",
+    "japanese": "出発する",
+    "ipa": "/hiːt/ /the/ /roʊd/",
+    "katakana": "ハイト・ズア・ルオアド"
+  },
+  {
+    "english": "pull someone",
+    "japanese": "",
+    "ipa": "/pəll/ /soʊmoʊne/",
+    "katakana": "プウルル・スオムエオンエ"
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": "s nose",
+    "japanese": "",
+    "ipa": "/s/ /noʊse/",
+    "katakana": "ス・ンオスエ"
+  },
+  {
+    "english": "up to no good",
+    "japanese": "",
+    "ipa": "/əp/ /toʊ/ /noʊ/ /ɡʊd/",
+    "katakana": "ウプ・トオ・ンオ・グウド"
+  },
+  {
+    "english": "wear your heart on your sleeve",
+    "japanese": "",
+    "ipa": "/wər/ /iːr/ /hərt/ /oʊn/ /iːr/ /sləve/",
+    "katakana": "ワイル・イオウル・ハイルト・オン・イオウル・スルエエヴエ"
+  },
+  {
+    "english": "work like a charm",
+    "japanese": "",
+    "ipa": "/woʊrk/ /liːke/ /æ/ /khærm/",
+    "katakana": "ワオルク・ルイクエ・ア・チアルム"
+  },
+  {
+    "english": "you bet",
+    "japanese": "",
+    "ipa": "/iː/ /bet/",
+    "katakana": "イオウ・ブエト"
+  },
+  {
+    "english": "zero tolerance",
+    "japanese": "",
+    "ipa": "/zeroʊ/ /toʊlerænse/",
+    "katakana": "ズエルオ・トオルエルアンクエ"
+  },
+  {
+    "english": "add fuel to the fire",
+    "japanese": "",
+    "ipa": "/ædd/ /fəl/ /toʊ/ /the/ /fiːre/",
+    "katakana": "アドド・フウエル・トオ・ズア・フイルエ"
+  },
+  {
+    "english": "at the drop of a hat",
+    "japanese": "",
+    "ipa": "/æt/ /the/ /droʊp/ /oʊf/ /æ/ /hæt/",
+    "katakana": "アト・ズア・ドルオプ・オフ・ア・ハアト"
+  },
+  {
+    "english": "backseat driver",
+    "japanese": "",
+    "ipa": "/bækksət/ /driːver/",
+    "katakana": "ブアクスイト・ドルイヴアル"
+  },
+  {
+    "english": "barking up the wrong tree",
+    "japanese": "",
+    "ipa": "/bærkiːng/ /əp/ /the/ /wroʊng/ /trə/",
+    "katakana": "ブアルクイング・ウプ・ズア・ワルオング・チュラエエ"
+  },
+  {
+    "english": "beat a dead horse",
+    "japanese": "",
+    "ipa": "/bət/ /æ/ /dəd/ /hoʊrse/",
+    "katakana": "ブイト・ア・ドイド・ハオルスエ"
+  },
+  {
+    "english": "between a rock and a hard place",
+    "japanese": "",
+    "ipa": "/betwən/ /æ/ /roʊkk/ /ænd/ /æ/ /hærd/ /plæse/",
+    "katakana": "ブエトワエエン・ア・ルオク・アンド・ア・ハアルド・プルアクエ"
+  },
+  {
+    "english": "break even",
+    "japanese": "",
+    "ipa": "/brək/ /even/",
+    "katakana": "ブルイク・エヴエン"
+  },
+  {
+    "english": "call someone",
+    "japanese": "",
+    "ipa": "/kæll/ /soʊmoʊne/",
+    "katakana": "クアルル・スオムエオンエ"
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": "s act together",
+    "japanese": "",
+    "ipa": "/s/ /ækt/ /toʊgether/",
+    "katakana": "ス・アクト・トオグエズアル"
+  },
+  {
+    "english": "give someone a run for their money",
+    "japanese": "",
+    "ipa": "/giːve/ /soʊmoʊne/ /æ/ /rən/ /foʊr/ /thiːr/ /moʊniː/",
+    "katakana": "グイヴエ・スオムエオンエ・ア・ルウン・フアル・スエイル・ムオンエイ"
+  },
+  {
+    "english": "go out on a limb",
+    "japanese": "",
+    "ipa": "/ɡoʊ/ /aʊt/ /oʊn/ /æ/ /liːmb/",
+    "katakana": "グオ・オウト・オン・ア・ルイムブ"
+  },
+  {
+    "english": "have a lot on one",
+    "japanese": "",
+    "ipa": "/hæve/ /æ/ /loʊt/ /oʊn/ /oʊne/",
+    "katakana": "ハアヴエ・ア・ルオト・オン・オンエ"
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": "s fingers crossed",
+    "japanese": "",
+    "ipa": "/s/ /fiːngers/ /kroʊssed/",
+    "katakana": "ス・フイングエルス・クルオススエド"
+  },
+  {
+    "english": "lay it on thick",
+    "japanese": "",
+    "ipa": "/liː/ /iːt/ /oʊn/ /thiːkk/",
+    "katakana": "ルエイ・イト・オン・スイク"
+  },
+  {
+    "english": "make ends meet",
+    "japanese": "",
+    "ipa": "/mæke/ /ends/ /mət/",
+    "katakana": "ムアクエ・エンドス・ムエエト"
+  },
+  {
+    "english": "not my cup of tea",
+    "japanese": "",
+    "ipa": "/noʊt/ /miː/ /kəp/ /oʊf/ /tə/",
+    "katakana": "ンオト・ムイ・クウプ・オフ・トイ"
+  },
+  {
+    "english": "on the fence",
+    "japanese": "",
+    "ipa": "/oʊn/ /the/ /fense/",
+    "katakana": "オン・ズア・フエンクエ"
+  },
+  {
+    "english": "play hard to get",
+    "japanese": "",
+    "ipa": "/pliː/ /hærd/ /toʊ/ /get/",
+    "katakana": "プルエイ・ハアルド・トオ・グエト"
+  },
+  {
+    "english": "put your nose to the grindstone",
+    "japanese": "",
+    "ipa": "/pət/ /iːr/ /noʊse/ /toʊ/ /the/ /griːndstoʊne/",
+    "katakana": "プウト・イオウル・ンオスエ・トオ・ズア・グルインドストオンエ"
+  },
+  {
+    "english": "raise the bar",
+    "japanese": "",
+    "ipa": "/riːse/ /the/ /bær/",
+    "katakana": "ルエイスエ・ズア・ブアル"
+  },
+  {
+    "english": "read between the lines",
+    "japanese": "",
+    "ipa": "/rəd/ /betwən/ /the/ /liːnes/",
+    "katakana": "ルイド・ブエトワエエン・ズア・ルインエス"
+  },
+  {
+    "english": "run out of steam",
+    "japanese": "",
+    "ipa": "/rən/ /aʊt/ /oʊf/ /stəm/",
+    "katakana": "ルウン・オウト・オフ・ストイム"
+  },
+  {
+    "english": "sweep under the rug",
+    "japanese": "",
+    "ipa": "/swəp/ /ənder/ /the/ /rəg/",
+    "katakana": "スワエエプ・ウンドアル・ズア・ルウグ"
+  },
+  {
+    "english": "take someone for granted",
+    "japanese": "",
+    "ipa": "/tæke/ /soʊmoʊne/ /foʊr/ /grænted/",
+    "katakana": "トアクエ・スオムエオンエ・フアル・グルアントエド"
+  },
+  {
+    "english": "test the waters",
+    "japanese": "",
+    "ipa": "/test/ /the/ /wæters/",
+    "katakana": "トエスト・ズア・ワアトエルス"
+  },
+  {
+    "english": "think outside the box",
+    "japanese": "",
+    "ipa": "/thiːnk/ /aʊtsiːde/ /the/ /boʊks/",
+    "katakana": "スインク・オウトスイドエ・ズア・ブオクス"
+  },
+  {
+    "english": "throw in the towel",
+    "japanese": "",
+    "ipa": "/throʊw/ /iːn/ /the/ /toʊwel/",
+    "katakana": "スルオウ・イン・ズア・トオウエル"
+  },
+  {
+    "english": "turn a blind eye",
+    "japanese": "",
+    "ipa": "/tərn/ /æ/ /bliːnd/ /iː/",
+    "katakana": "トウルン・ア・ブルインド・エイエ"
+  },
+  {
+    "english": "up the ante",
+    "japanese": "",
+    "ipa": "/əp/ /the/ /ænte/",
+    "katakana": "ウプ・ズア・アントエ"
+  },
+  {
+    "english": "wash one",
+    "japanese": "",
+    "ipa": "/wæsh/ /oʊne/",
+    "katakana": "ワアシュ・オンエ"
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": ",",
+    "japanese": "",
+    "ipa": "/,/",
+    "katakana": ","
+  },
+  {
+    "english": "s end",
+    "japanese": "",
+    "ipa": "/s/ /end/",
+    "katakana": "ス・エンド"
+  },
+  {
+    "english": "back to the drawing board",
+    "japanese": "",
+    "ipa": "/bækk/ /toʊ/ /the/ /dræwiːng/ /boʊrd/",
+    "katakana": "ブアク・トオ・ズア・ドルアワイング・ブオアルド"
+  },
+  {
+    "english": "bend over backwards",
+    "japanese": "",
+    "ipa": "/bend/ /oʊver/ /bækkwærds/",
+    "katakana": "ブエンド・オヴアル・ブアクアルドス"
+  },
+  {
+    "english": "bolt from the blue",
+    "japanese": "",
+    "ipa": "/boʊlt/ /froʊm/ /the/ /blə/",
+    "katakana": "ブオルト・フルオム・ズア・ブルウエ"
+  },
+  {
+    "english": "bring home the bacon",
+    "japanese": "",
+    "ipa": "/briːng/ /hoʊme/ /the/ /bækoʊn/",
+    "katakana": "ブルイング・ハオムエ・ズア・ブアクオン"
+  }
+]
