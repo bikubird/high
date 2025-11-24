@@ -197,9 +197,9 @@ window.addEventListener('load', ()=>{
   document.getElementById('startBtn').addEventListener('click', startStudying);
   document.getElementById('card').addEventListener('click', ()=>{ cardClicked(); });
   document.getElementById('speakBtn').addEventListener('click', ()=>{
-    const w = words[currentIndex];
-    speakWithTTS(w.english);
-  });
+  const w = words[currentIndex];
+  playAudioForWord(w.english);  // ← MP3 を再生する
+});
   document.getElementById('nextBtn').addEventListener('click', ()=>{ cardClicked(); });
 
   // 🔽 英語＋IPA＋カタカナ 隠す
