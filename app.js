@@ -1,13 +1,13 @@
-// app.js - GitHub Pages friendly + Hide functions
+// app.js - GitHub Pages friendly + hide functions
 let words = [];
 let currentIndex = 0;
 let showAnswer = false;
 let repeatCount = 0;
 let audio = null;
 
-// 🔽 新機能フラグ
-let hideJapanese = false;
-let hideEnglish = false;
+// 🔽 新機能：隠すフラグ
+let hideEnglish = false;   // 英語＋IPA＋カタカナを隠す
+let hideJapanese = false;  // 日本語を隠す
 
 async function loadWords() {
   try {
@@ -38,33 +38,39 @@ function renderCard(){
   document.getElementById('counter').textContent =
     (currentIndex+1) + ' / ' + words.length + ' (表示:' + (repeatCount+1) + '/2)';
 
-  /*** 🔽 英語を隠す設定 ***/
-  if (!hideEnglish){
+  // ⭐ 英語隠し（英語 + IPA + カタカナ）
+  if (!hideEnglish) {
     document.getElementById('english').textContent = w.english;
     document.getElementById('ipa').textContent = w.ipa;
+
+    if (!showAnswer) {
+      document.getElementById('katakana').textContent = w.katakana;
+    } else {
+      document.getElementById('katakana').textContent = '';
+    }
+
   } else {
-    document.getElementById('english').textContent = "（英語は隠されています）";
+    document.getElementById('english').textContent = "（隠されています）";
     document.getElementById('ipa').textContent = "";
+    document.getElementById('katakana').textContent = "（隠されています）";
   }
 
   if(!showAnswer){
-    document.getElementById('katakana').textContent = w.katakana;
     document.getElementById('japanese').textContent = "";
     document.getElementById('hint').textContent = 'タップして答えを表示';
 
-    playAudioForWord(w.english);
-  } else {
-    document.getElementById('katakana').textContent = "";
+    if (!hideEnglish) playAudioForWord(w.english);
 
-    /*** 🔽 日本語を隠す設定 ***/
+  } else {
+    // ⭐ 日本語隠し
     if (!hideJapanese){
       document.getElementById('japanese').textContent = w.japanese || '（未登録）';
     } else {
-      document.getElementById('japanese').textContent = "（日本語は隠されています）";
+      document.getElementById('japanese').textContent = "（隠されています）";
     }
 
     document.getElementById('hint').textContent =
-      'タップして' + (repeatCount === 0 ? '2回目へ' : '次へ');
+      'タップして' + (repeatCount===0 ? '2回目へ' : '次へ');
   }
 }
 
@@ -73,10 +79,7 @@ function cardClicked(){
   if(repeatCount === 0){ repeatCount = 1; showAnswer = false; renderCard(); return; }
 
   if(currentIndex < words.length - 1){
-    currentIndex++;
-    showAnswer = false;
-    repeatCount = 0;
-    renderCard();
+    currentIndex++; showAnswer = false; repeatCount = 0; renderCard();
   } else {
     alert('学習が終了しました');
     document.getElementById('studyArea').style.display = 'none';
@@ -90,7 +93,7 @@ function playAudioForWord(text){
   const wav = 'audio/' + fname + '.wav';
 
   fetch(mp3, {method:'HEAD'}).then(res=>{
-    if(res.ok) playAudio(mp3);
+    if(res.ok){ playAudio(mp3); }
     else {
       fetch(wav, {method:'HEAD'}).then(r2=>{
         if(r2.ok) playAudio(wav);
@@ -126,19 +129,22 @@ window.addEventListener('load', ()=>{
 
   document.getElementById('startBtn').addEventListener('click', startStudying);
   document.getElementById('card').addEventListener('click', ()=>{ cardClicked(); });
-  document.getElementById('speakBtn').addEventListener('click', ()=>{ const w = words[currentIndex]; speakWithTTS(w.english); });
+  document.getElementById('speakBtn').addEventListener('click', ()=>{
+    const w = words[currentIndex]; speakWithTTS(w.english);
+  });
   document.getElementById('nextBtn').addEventListener('click', ()=>{ cardClicked(); });
 
-  /*** 🔽 隠すボタンの追加イベント ***/
-  document.getElementById('toggleJapaneseBtn').addEventListener('click', ()=>{
-    hideJapanese = !hideJapanese;
-    alert(hideJapanese ? "日本語を隠します" : "日本語を表示します");
+  // 🔽 英語＋IPA＋カタカナ隠しボタン
+  document.getElementById('toggleEnglishBtn').addEventListener('click', ()=>{
+    hideEnglish = !hideEnglish;
+    alert(hideEnglish ? "英語＋IPA＋カタカナを隠します" : "表示します");
     renderCard();
   });
 
-  document.getElementById('toggleEnglishBtn').addEventListener('click', ()=>{
-    hideEnglish = !hideEnglish;
-    alert(hideEnglish ? "英語＋IPAを隠します" : "英語＋IPAを表示します");
+  // 🔽 日本語隠しボタン
+  document.getElementById('toggleJapaneseBtn').addEventListener('click', ()=>{
+    hideJapanese = !hideJapanese;
+    alert(hideJapanese ? "日本語を隠します" : "日本語を表示します");
     renderCard();
   });
 
