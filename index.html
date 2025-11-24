@@ -3,49 +3,103 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>英単語フラッシュカード（GitHub Pages対応）</title>
+  <title>英単語フラッシュカード — フル機能版</title>
   <link rel="stylesheet" href="styles.css" />
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="mobile-web-app-capable" content="yes">
 </head>
 <body>
-  <div class="container">
-    <h1 class="title">📚 英単語フラッシュカード</h1>
-    <div class="card">
-      <div id="counter" class="counter">0 / 0</div>
+  <header class="topbar">
+    <div class="logo">📘 英単語フラッシュカード</div>
+    <div class="top-actions">
+      <button id="modeBtn" class="btn">学習</button>
+      <button id="openSettingsBtn" class="btn ghost">設定</button>
+    </div>
+  </header>
 
-      <!-- 学習エリア -->
-      <div id="studyArea" style="display:none; text-align:center;">
+  <main class="wrap">
+    <aside class="sidebar">
+      <div class="search">
+        <input id="searchInput" type="search" placeholder="検索 — 英語 / カタカナ / 日本語" />
+      </div>
 
-        <!-- 単語カード -->
-        <div id="card" style="cursor:pointer; padding:18px;">
-          <div id="english" class="english-large">loading...</div>
-          <div id="ipa" class="small mono"></div>
-          <div id="katakana" class="katakana"></div>
-          <div id="japanese" class="japanese"></div>
-          <div id="hint" class="small">タップして答えを表示</div>
+      <div class="list-controls">
+        <button id="showAllBtn" class="btn small">全単語</button>
+        <button id="showHardBtn" class="btn small warn">苦手</button>
+        <button id="shuffleListBtn" class="btn small">シャッフル</button>
+      </div>
+
+      <div id="wordList" class="word-list" aria-live="polite"></div>
+
+      <div class="footer-note">単語数: <span id="count">0</span></div>
+    </aside>
+
+    <section class="content">
+      <div id="studyArea" class="card-wrap">
+        <div id="card" class="card" tabindex="0" aria-label="単語カード">
+          <div class="counter" id="counter">0 / 0</div>
+          <div class="english-large" id="english">loading...</div>
+          <div class="ipa mono" id="ipa"></div>
+          <div class="katakana" id="katakana"></div>
+          <div class="japanese" id="japanese"></div>
+          <div class="hint" id="hint">タップして答えを表示</div>
         </div>
 
-        <!-- コントロールボタン -->
-        <div id="controls" style="display:none; margin-top:12px; text-align:center;">
-          <button id="speakBtn" class="button">🔊 発音</button>
-          <button id="nextBtn" class="button green">次へ</button>
-          <button id="toggleJapaneseBtn" class="button">🇯🇵 日本語を隠す</button>
-          <button id="toggleEnglishBtn" class="button">🇬🇧 英語／発音／カタカナを隠す</button>
-          <button id="skipBtn" class="button yellow">⏭ スキップ</button>
-          <button id="shuffleBtn" class="button blue">🔀 シャッフル</button>
-          <button id="stopBtn" class="button red">終了</button>
+        <div id="controls" class="controls">
+          <button id="speakBtn" class="btn primary">🔊 発音</button>
+          <button id="nextBtn" class="btn">次へ</button>
+          <button id="skipBtn" class="btn">⏭ スキップ</button>
+          <button id="shuffleBtn" class="btn">🔀 シャッフル</button>
+
+          <div class="toggle-group">
+            <button id="toggleEnglishBtn" class="btn">🇬🇧 英語/IPA/カタカナ</button>
+            <button id="toggleJapaneseBtn" class="btn">🇯🇵 日本語</button>
+          </div>
+
+          <button id="hardBtn" class="btn warn">❗苦手に追加</button>
         </div>
       </div>
 
-      <!-- スタートボタン -->
-      <div style="text-align:center; margin-top:12px;">
-        <button id="startBtn" class="button">学習スタート (<span id="count">0</span> 単語)</button>
+      <div id="statsArea" class="stats">
+        <h3>学習履歴</h3>
+        <div>今日: <span id="todayCount">0</span></div>
+        <div>累計: <span id="totalCount">0</span></div>
+        <div>苦手数: <span id="hardCount">0</span></div>
+      </div>
+    </section>
+  </main>
+
+  <!-- 設定モーダル -->
+  <div id="settingsModal" class="modal" aria-hidden="true">
+    <div class="modal-inner">
+      <h2>設定</h2>
+
+      <label>隠すモード（複数可）</label>
+      <div class="settings-row">
+        <input type="checkbox" id="hideEnglishChk" /> <label for="hideEnglishChk">英語を隠す</label>
+        <input type="checkbox" id="hideIPAChk" /> <label for="hideIPAChk">IPAを隠す</label>
+        <input type="checkbox" id="hideKatakanaChk" /> <label for="hideKatakanaChk">カタカナを隠す</label>
+        <input type="checkbox" id="hideJapaneseChk" /> <label for="hideJapaneseChk">日本語を隠す</label>
+      </div>
+
+      <label>学習回数（1〜5）</label>
+      <input id="repeatCountInput" type="number" min="1" max="5" value="2" />
+
+      <label>音声フォールバック</label>
+      <div class="settings-row">
+        <input id="ttsFallbackChk" type="checkbox" checked /> <label for="ttsFallbackChk">MP3がなければTTSを使う</label>
+      </div>
+
+      <div class="modal-actions">
+        <button id="saveSettingsBtn" class="btn primary">保存</button>
+        <button id="closeSettingsBtn" class="btn ghost">閉じる</button>
       </div>
     </div>
-
-    <p class="small center">元ファイル: flashcard_offline_wordbook (2).html</p>
   </div>
+
+  <footer class="bottombar">
+    <small>オフライン対応（PWA化可能） • MP3優先再生</small>
+  </footer>
 
   <script src="app.js"></script>
 </body>
