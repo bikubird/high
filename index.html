@@ -13,7 +13,11 @@
     <h1 class="title">📚 英単語フラッシュカード</h1>
     <div class="card">
       <div id="counter" class="counter">0 / 0</div>
+
+      <!-- 学習エリア -->
       <div id="studyArea" style="display:none; text-align:center;">
+
+        <!-- 単語カード -->
         <div id="card" style="cursor:pointer; padding:18px;">
           <div id="english" class="english-large">loading...</div>
           <div id="ipa" class="small mono"></div>
@@ -21,18 +25,26 @@
           <div id="japanese" class="japanese"></div>
           <div id="hint" class="small">タップして答えを表示</div>
         </div>
+
+        <!-- コントロールボタン -->
         <div id="controls" style="display:none; margin-top:12px; text-align:center;">
           <button id="speakBtn" class="button">🔊 発音</button>
           <button id="nextBtn" class="button green">次へ</button>
+          <button id="skipBtn" class="button yellow">⏭ スキップ</button>
+          <button id="shuffleBtn" class="button blue">🔀 シャッフル</button>
           <button id="stopBtn" class="button red">終了</button>
         </div>
       </div>
+
+      <!-- スタートボタン -->
       <div style="text-align:center; margin-top:12px;">
         <button id="startBtn" class="button">学習スタート (<span id="count">0</span> 単語)</button>
       </div>
     </div>
+
     <p class="small center">元ファイル: flashcard_offline_wordbook (2).html</p>
   </div>
+
   <script src="app.js"></script>
 </body>
 </html>
