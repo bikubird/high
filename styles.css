@@ -1,14 +1,54 @@
-/* styles.css - mobile friendly */
-body { font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Hiragino Kaku Gothic ProN", "Noto Sans JP", Roboto, Arial, sans-serif; margin:0; background: linear-gradient(135deg,#f8fafc,#eef2ff); color:#0f172a; -webkit-font-smoothing:antialiased; }
-.container { max-width: 900px; margin: 18px auto; padding: 12px; }
-.title { text-align:center; font-size:20px; margin-bottom:8px; }
-.card { background:#fff; border-radius:14px; padding:16px; box-shadow:0 6px 18px rgba(15,23,42,0.06); }
-.button { display:inline-block; padding:10px 14px; border-radius:10px; background:#4338ca; color:#fff; text-decoration:none; border:none; font-size:15px; }
-.button.green{ background:#10b981; margin-left:8px; }
-.button.red{ background:#ef4444; margin-left:8px; }
-.small{ font-size:13px; color:#64748b; }
-.center{ text-align:center; margin-top:8px; }
-.katakana{ font-size:26px; color:#374151; font-weight:700; margin-top:6px; }
-.english-large{ font-size:40px; font-weight:800; color:#4f46e5; }
-.mono{ font-family: monospace; color:#6b7280; margin-top:6px; }
-.japanese{ font-size:18px; color:#059669; margin-top:8px; font-weight:700; }
+:root{
+  --bg:#f4f7fb;
+  --card:#ffffff;
+  --primary:#5b4cff; /* accent */
+  --muted:#6b7280;
+  --accent:#6f8efb;
+  --warn:#ffb74d;
+  --danger:#ff6b6b;
+  --glass: rgba(255,255,255,0.6);
+  --radius:14px;
+  --shadow: 0 6px 18px rgba(21,24,31,0.08);
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+*{box-sizing:border-box}
+html,body{height:100%;margin:0;background:linear-gradient(180deg,#eef3ff 0%,var(--bg) 100%);color:#1f2937}
+.topbar{height:64px;display:flex;align-items:center;justify-content:space-between;padding:0 18px;background:transparent}
+.logo{font-weight:700;color:var(--primary);display:flex;gap:8px;align-items:center}
+.wrap{display:flex;gap:18px;padding:18px;max-width:1100px;margin:10px auto}
+.sidebar{width:320px}
+.search input{width:100%;padding:10px;border-radius:10px;border:1px solid #e6eef8;background:#fff}
+.list-controls{display:flex;gap:8px;margin:8px 0}
+.btn{background:var(--card);border:none;padding:10px 12px;border-radius:10px;cursor:pointer;box-shadow:var(--shadow);font-weight:600}
+.btn.primary{background:var(--primary);color:#fff}
+.btn.ghost{background:transparent;border:1px solid rgba(0,0,0,0.06)}
+.btn.small{padding:6px 8px;font-size:13px}
+.btn.warn{background:var(--warn);color:#000}
+.btn.red{background:var(--danger);color:#fff}
+.word-list{max-height:70vh;overflow:auto;background:transparent;padding:8px;border-radius:8px}
+.word-item{padding:8px;border-radius:8px;margin:4px 0;cursor:pointer;background:rgba(255,255,255,0.6);display:flex;justify-content:space-between;align-items:center}
+.content{flex:1}
+.card-wrap{display:flex;flex-direction:column;gap:12px;align-items:center}
+.card{width:100%;background:var(--card);border-radius:var(--radius);padding:28px 24px;text-align:center;box-shadow:var(--shadow)}
+.counter{position:absolute;left:28px;top:84px;color:var(--muted);font-size:14px}
+.english-large{font-size:44px;font-weight:800;color:var(--primary);margin-bottom:6px}
+.ipa{color:var(--muted);font-size:14px}
+.katakana{font-size:20px;color:#222;margin-top:8px}
+.japanese{margin-top:12px;font-size:18px;color:#111}
+.hint{margin-top:8px;color:var(--muted)}
+.controls{display:flex;flex-wrap:wrap;gap:8px;justify-content:center}
+.toggle-group{display:flex;gap:6px}
+.stats{margin-top:12px;padding:12px;border-radius:10px;background:var(--card);box-shadow:var(--shadow);text-align:left}
+.footer-note{margin-top:14px;color:var(--muted)}
+.bottombar{height:48px;display:flex;align-items:center;justify-content:center;color:var(--muted);font-size:13px}
+.modal{position:fixed;inset:0;display:none;align-items:center;justify-content:center;backdrop-filter: blur(4px)}
+.modal[aria-hidden="false"]{display:flex}
+.modal-inner{width:92%;max-width:560px;background:var(--card);padding:18px;border-radius:12px;box-shadow:var(--shadow)}
+.settings-row{display:flex;gap:12px;align-items:center;flex-wrap:wrap;margin:8px 0}
+.modal-actions{display:flex;gap:8px;justify-content:flex-end;margin-top:12px}
+@media(max-width:800px){
+  .wrap{flex-direction:column;padding:12px}
+  .sidebar{width:100%}
+  .card{padding:18px}
+  .english-large{font-size:36px}
+}
