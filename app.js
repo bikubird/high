@@ -270,4 +270,26 @@ window.addEventListener('load', ()=>{
     if(e.key === 'ArrowLeft'){ if(currentIndex>0){ currentIndex--; renderCard(); } }
   });
 
+    // === 自動再生 ===
+  if(el('autoPlayBtn')) el('autoPlayBtn').addEventListener('click', ()=> {
+    const speed = Number(el('autoSpeed')?.value || 2000);
+
+    // まず手動で次へ進む場合と区別し、確実に開始
+    if(window.autoTimer) clearInterval(window.autoTimer);
+
+    window.autoTimer = setInterval(()=>{
+      cardClicked();
+    }, speed);
+
+    console.log("Auto play start", speed);
+  });
+
+  if(el('autoStopBtn')) el('autoStopBtn').addEventListener('click', ()=> {
+    if(window.autoTimer){
+      clearInterval(window.autoTimer);
+      window.autoTimer = null;
+    }
+    console.log("Auto play stop");
+  });
+
 });
