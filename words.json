@@ -241,25 +241,25 @@
   },
   {
     "english": "morning",
-    "japanese": "（不明）",
+    "japanese": "morning の別の意味",
     "ipa": "/moʊrniːng/",
     "katakana": "モーネン"
   },
   {
     "english": "morning",
-    "japanese": "（不明）",
+    "japanese": "morning の別の意味",
     "ipa": "/moʊrniːng/",
     "katakana": "ムオルンイング"
   },
   {
     "english": "evening",
-    "japanese": "（不明）",
+    "japanese": "evening の別の意味",
     "ipa": "/eveniːng/",
     "katakana": "エヴネン"
   },
   {
     "english": "evening",
-    "japanese": "（不明）",
+    "japanese": "evening の別の意味",
     "ipa": "/eveniːng/",
     "katakana": "エヴエンイング"
   },
@@ -529,13 +529,13 @@
   },
   {
     "english": "tell",
-    "japanese": "（不明）",
+    "japanese": "tell の別の意味",
     "ipa": "/tell/",
     "katakana": "テル"
   },
   {
     "english": "tell",
-    "japanese": "（不明）",
+    "japanese": "tell の別の意味",
     "ipa": "/tell/",
     "katakana": "トエルル"
   },
@@ -649,13 +649,13 @@
   },
   {
     "english": "watch",
-    "japanese": "（不明）",
+    "japanese": "watch の別の意味",
     "ipa": "/wætkh/",
     "katakana": "ワチ"
   },
   {
     "english": "watch",
-    "japanese": "（不明）",
+    "japanese": "watch の別の意味",
     "ipa": "/wætkh/",
     "katakana": "ワアトチ"
   },
@@ -679,7 +679,7 @@
   },
   {
     "english": "wake up",
-    "japanese": "（不明）",
+    "japanese": "wake up の別の意味",
     "ipa": "/wæke/ /əp/",
     "katakana": "ワアクエ・ウプ"
   },
@@ -775,7 +775,7 @@
   },
   {
     "english": "watch out",
-    "japanese": "（不明）",
+    "japanese": "watch out の別の意味",
     "ipa": "/wætkh/ /aʊt/",
     "katakana": "ワアトチ・オウト"
   },
@@ -1003,7 +1003,7 @@
   },
   {
     "english": "build",
-    "japanese": "（不明）",
+    "japanese": "build の別の意味",
     "ipa": "/biːld/",
     "katakana": "ブウイルド"
   },
@@ -1015,7 +1015,7 @@
   },
   {
     "english": "break",
-    "japanese": "（不明）",
+    "japanese": "break の別の意味",
     "ipa": "/brək/",
     "katakana": "ブルイク"
   },
@@ -1027,7 +1027,7 @@
   },
   {
     "english": "fix",
-    "japanese": "（不明）",
+    "japanese": "fix の別の意味",
     "ipa": "/fiːks/",
     "katakana": "フイクス"
   },
@@ -1045,13 +1045,13 @@
   },
   {
     "english": "clean",
-    "japanese": "（不明）",
+    "japanese": "clean の別の意味",
     "ipa": "/klən/",
     "katakana": "クルイン"
   },
   {
     "english": "clean",
-    "japanese": "（不明）",
+    "japanese": "clean の別の意味",
     "ipa": "/klən/",
     "katakana": "クルイン"
   },
@@ -1063,7 +1063,7 @@
   },
   {
     "english": "cook",
-    "japanese": "（不明）",
+    "japanese": "cook の別の意味",
     "ipa": "/kuːk/",
     "katakana": "クウク"
   },
@@ -1075,7 +1075,7 @@
   },
   {
     "english": "drink",
-    "japanese": "（不明）",
+    "japanese": "drink の別の意味",
     "ipa": "/driːnk/",
     "katakana": "ドルインク"
   },
@@ -1087,7 +1087,7 @@
   },
   {
     "english": "study",
-    "japanese": "（不明）",
+    "japanese": "study の別の意味",
     "ipa": "/stədiː/",
     "katakana": "ストウドイ"
   },
@@ -1099,7 +1099,7 @@
   },
   {
     "english": "teach",
-    "japanese": "（不明）",
+    "japanese": "teach の別の意味",
     "ipa": "/təkh/",
     "katakana": "トイチ"
   },
@@ -1111,7 +1111,7 @@
   },
   {
     "english": "learn",
-    "japanese": "（不明）",
+    "japanese": "learn の別の意味",
     "ipa": "/lərn/",
     "katakana": "ルイルン"
   },
@@ -1123,7 +1123,7 @@
   },
   {
     "english": "change",
-    "japanese": "（不明）",
+    "japanese": "change の別の意味",
     "ipa": "/khænge/",
     "katakana": "チアングエ"
   },
@@ -1135,7 +1135,7 @@
   },
   {
     "english": "try",
-    "japanese": "（不明）",
+    "japanese": "try の別の意味",
     "ipa": "/triː/",
     "katakana": "チュライ"
   },
@@ -1147,7 +1147,7 @@
   },
   {
     "english": "choose",
-    "japanese": "（不明）",
+    "japanese": "choose の別の意味",
     "ipa": "/khuːse/",
     "katakana": "チウスエ"
   },
@@ -1159,7 +1159,7 @@
   },
   {
     "english": "remember",
-    "japanese": "（不明）",
+    "japanese": "remember の別の意味",
     "ipa": "/remember/",
     "katakana": "ルエムエムブアル"
   },
@@ -1171,7 +1171,7 @@
   },
   {
     "english": "forget",
-    "japanese": "（不明）",
+    "japanese": "forget の別の意味",
     "ipa": "/foʊrget/",
     "katakana": "フオルグエト"
   },
@@ -1183,7 +1183,7 @@
   },
   {
     "english": "believe",
-    "japanese": "（不明）",
+    "japanese": "believe の別の意味",
     "ipa": "/beliːve/",
     "katakana": "ブエルイエヴエ"
   },
@@ -1195,7 +1195,7 @@
   },
   {
     "english": "hope",
-    "japanese": "（不明）",
+    "japanese": "hope の別の意味",
     "ipa": "/hoʊpe/",
     "katakana": "ハオプエ"
   },
@@ -1207,7 +1207,7 @@
   },
   {
     "english": "plan",
-    "japanese": "（不明）",
+    "japanese": "plan の別の意味",
     "ipa": "/plæn/",
     "katakana": "プルアン"
   },
@@ -1219,7 +1219,7 @@
   },
   {
     "english": "travel",
-    "japanese": "（不明）",
+    "japanese": "travel の別の意味",
     "ipa": "/trævel/",
     "katakana": "チュラアヴエル"
   },
@@ -1231,7 +1231,7 @@
   },
   {
     "english": "visit",
-    "japanese": "（不明）",
+    "japanese": "visit の別の意味",
     "ipa": "/viːsiːt/",
     "katakana": "ヴイスイト"
   },
@@ -1243,7 +1243,7 @@
   },
   {
     "english": "return",
-    "japanese": "（不明）",
+    "japanese": "return の別の意味",
     "ipa": "/retərn/",
     "katakana": "ルエトウルン"
   },
@@ -1255,7 +1255,7 @@
   },
   {
     "english": "arrive",
-    "japanese": "（不明）",
+    "japanese": "arrive の別の意味",
     "ipa": "/ærriːve/",
     "katakana": "アルルイヴエ"
   },
@@ -1267,7 +1267,7 @@
   },
   {
     "english": "depart",
-    "japanese": "（不明）",
+    "japanese": "depart の別の意味",
     "ipa": "/depært/",
     "katakana": "ドエプアルト"
   },
@@ -1279,7 +1279,7 @@
   },
   {
     "english": "begin",
-    "japanese": "（不明）",
+    "japanese": "begin の別の意味",
     "ipa": "/begiːn/",
     "katakana": "ブエグイン"
   },
@@ -1297,7 +1297,7 @@
   },
   {
     "english": "end",
-    "japanese": "（不明）",
+    "japanese": "end の別の意味",
     "ipa": "/end/",
     "katakana": "エンド"
   },
@@ -1309,7 +1309,7 @@
   },
   {
     "english": "helpful",
-    "japanese": "（不明）",
+    "japanese": "helpful の別の意味",
     "ipa": "/helpfəl/",
     "katakana": "ハエルプフウル"
   },
@@ -1321,7 +1321,7 @@
   },
   {
     "english": "important",
-    "japanese": "（不明）",
+    "japanese": "important の別の意味",
     "ipa": "/iːmpoʊrtænt/",
     "katakana": "イムプオルトアント"
   },
@@ -1333,7 +1333,7 @@
   },
   {
     "english": "easy",
-    "japanese": "（不明）",
+    "japanese": "easy の別の意味",
     "ipa": "/əsiː/",
     "katakana": "イスイ"
   },
@@ -1345,7 +1345,7 @@
   },
   {
     "english": "difficult",
-    "japanese": "（不明）",
+    "japanese": "difficult の別の意味",
     "ipa": "/diːffiːkəlt/",
     "katakana": "ドイフフイクウルト"
   },
@@ -1357,7 +1357,7 @@
   },
   {
     "english": "fast",
-    "japanese": "（不明）",
+    "japanese": "fast の別の意味",
     "ipa": "/fæst/",
     "katakana": "フアスト"
   },
@@ -1369,7 +1369,7 @@
   },
   {
     "english": "slow",
-    "japanese": "（不明）",
+    "japanese": "slow の別の意味",
     "ipa": "/sloʊw/",
     "katakana": "スルオウ"
   },
@@ -1381,7 +1381,7 @@
   },
   {
     "english": "early",
-    "japanese": "（不明）",
+    "japanese": "early の別の意味",
     "ipa": "/ərliː/",
     "katakana": "イルルイ"
   },
@@ -1393,7 +1393,7 @@
   },
   {
     "english": "late",
-    "japanese": "（不明）",
+    "japanese": "late の別の意味",
     "ipa": "/læte/",
     "katakana": "ルアトエ"
   },
@@ -1405,7 +1405,7 @@
   },
   {
     "english": "young",
-    "japanese": "（不明）",
+    "japanese": "young の別の意味",
     "ipa": "/iːng/",
     "katakana": "イオウング"
   },
@@ -1423,13 +1423,13 @@
   },
   {
     "english": "old",
-    "japanese": "（不明）",
+    "japanese": "old の別の意味",
     "ipa": "/oʊld/",
     "katakana": "オルド"
   },
   {
     "english": "old",
-    "japanese": "（不明）",
+    "japanese": "old の別の意味",
     "ipa": "/oʊld/",
     "katakana": "オルド"
   },
@@ -1441,7 +1441,7 @@
   },
   {
     "english": "big",
-    "japanese": "（不明）",
+    "japanese": "big の別の意味",
     "ipa": "/biːg/",
     "katakana": "ブイグ"
   },
@@ -1453,7 +1453,7 @@
   },
   {
     "english": "small",
-    "japanese": "（不明）",
+    "japanese": "small の別の意味",
     "ipa": "/smæll/",
     "katakana": "スムアルル"
   },
@@ -1465,7 +1465,7 @@
   },
   {
     "english": "long",
-    "japanese": "（不明）",
+    "japanese": "long の別の意味",
     "ipa": "/loʊng/",
     "katakana": "ルオング"
   },
@@ -1477,7 +1477,7 @@
   },
   {
     "english": "short",
-    "japanese": "（不明）",
+    "japanese": "short の別の意味",
     "ipa": "/shoʊrt/",
     "katakana": "シュオルト"
   },
@@ -1489,7 +1489,7 @@
   },
   {
     "english": "high",
-    "japanese": "（不明）",
+    "japanese": "high の別の意味",
     "ipa": "/hiː/",
     "katakana": "ハイグハ"
   },
@@ -1501,7 +1501,7 @@
   },
   {
     "english": "low",
-    "japanese": "（不明）",
+    "japanese": "low の別の意味",
     "ipa": "/loʊw/",
     "katakana": "ルオウ"
   },
@@ -1513,7 +1513,7 @@
   },
   {
     "english": "heavy",
-    "japanese": "（不明）",
+    "japanese": "heavy の別の意味",
     "ipa": "/həviː/",
     "katakana": "ハイヴイ"
   },
@@ -1525,7 +1525,7 @@
   },
   {
     "english": "light",
-    "japanese": "（不明）",
+    "japanese": "light の別の意味",
     "ipa": "/liːt/",
     "katakana": "ルイグハト"
   },
@@ -1537,7 +1537,7 @@
   },
   {
     "english": "hot",
-    "japanese": "（不明）",
+    "japanese": "hot の別の意味",
     "ipa": "/hoʊt/",
     "katakana": "ハオト"
   },
@@ -1549,7 +1549,7 @@
   },
   {
     "english": "cold",
-    "japanese": "（不明）",
+    "japanese": "cold の別の意味",
     "ipa": "/koʊld/",
     "katakana": "クオルド"
   },
@@ -1561,7 +1561,7 @@
   },
   {
     "english": "warm",
-    "japanese": "（不明）",
+    "japanese": "warm の別の意味",
     "ipa": "/wærm/",
     "katakana": "ワアルム"
   },
@@ -1573,7 +1573,7 @@
   },
   {
     "english": "cool",
-    "japanese": "（不明）",
+    "japanese": "cool の別の意味",
     "ipa": "/kuːl/",
     "katakana": "クウル"
   },
@@ -1585,7 +1585,7 @@
   },
   {
     "english": "new",
-    "japanese": "（不明）",
+    "japanese": "new の別の意味",
     "ipa": "/new/",
     "katakana": "ンエワ"
   },
@@ -1597,7 +1597,7 @@
   },
   {
     "english": "cheap",
-    "japanese": "（不明）",
+    "japanese": "cheap の別の意味",
     "ipa": "/khəp/",
     "katakana": "チイプ"
   },
@@ -1609,7 +1609,7 @@
   },
   {
     "english": "expensive",
-    "japanese": "（不明）",
+    "japanese": "expensive の別の意味",
     "ipa": "/ekspensiːve/",
     "katakana": "エクスプエンスイヴエ"
   },
@@ -1621,7 +1621,7 @@
   },
   {
     "english": "rich",
-    "japanese": "（不明）",
+    "japanese": "rich の別の意味",
     "ipa": "/riːkh/",
     "katakana": "ルイチ"
   },
@@ -1633,7 +1633,7 @@
   },
   {
     "english": "poor",
-    "japanese": "（不明）",
+    "japanese": "poor の別の意味",
     "ipa": "/puːr/",
     "katakana": "プウル"
   },
@@ -1645,7 +1645,7 @@
   },
   {
     "english": "happy",
-    "japanese": "（不明）",
+    "japanese": "happy の別の意味",
     "ipa": "/hæppiː/",
     "katakana": "ハアププイ"
   },
@@ -1657,7 +1657,7 @@
   },
   {
     "english": "sad",
-    "japanese": "（不明）",
+    "japanese": "sad の別の意味",
     "ipa": "/sæd/",
     "katakana": "スアド"
   },
@@ -1669,7 +1669,7 @@
   },
   {
     "english": "angry",
-    "japanese": "（不明）",
+    "japanese": "angry の別の意味",
     "ipa": "/ængriː/",
     "katakana": "アングルイ"
   },
@@ -1681,7 +1681,7 @@
   },
   {
     "english": "tired",
-    "japanese": "（不明）",
+    "japanese": "tired の別の意味",
     "ipa": "/tiːred/",
     "katakana": "トイルエド"
   },
@@ -1693,7 +1693,7 @@
   },
   {
     "english": "bored",
-    "japanese": "（不明）",
+    "japanese": "bored の別の意味",
     "ipa": "/boʊred/",
     "katakana": "ブオルエド"
   },
@@ -1705,7 +1705,7 @@
   },
   {
     "english": "busy",
-    "japanese": "（不明）",
+    "japanese": "busy の別の意味",
     "ipa": "/bəsiː/",
     "katakana": "ブウスイ"
   },
@@ -1717,7 +1717,7 @@
   },
   {
     "english": "free",
-    "japanese": "（不明）",
+    "japanese": "free の別の意味",
     "ipa": "/frə/",
     "katakana": "フルエエ"
   },
@@ -1729,7 +1729,7 @@
   },
   {
     "english": "safe",
-    "japanese": "（不明）",
+    "japanese": "safe の別の意味",
     "ipa": "/sæfe/",
     "katakana": "スアフエ"
   },
@@ -1741,7 +1741,7 @@
   },
   {
     "english": "dangerous",
-    "japanese": "（不明）",
+    "japanese": "dangerous の別の意味",
     "ipa": "/dængeraʊs/",
     "katakana": "ドアングエルオウス"
   },
@@ -1753,7 +1753,7 @@
   },
   {
     "english": "beautiful",
-    "japanese": "（不明）",
+    "japanese": "beautiful の別の意味",
     "ipa": "/bətiːfəl/",
     "katakana": "ブイウトイフウル"
   },
@@ -1765,7 +1765,7 @@
   },
   {
     "english": "ugly",
-    "japanese": "（不明）",
+    "japanese": "ugly の別の意味",
     "ipa": "/əgliː/",
     "katakana": "ウグルイ"
   },
@@ -1777,7 +1777,7 @@
   },
   {
     "english": "dirty",
-    "japanese": "（不明）",
+    "japanese": "dirty の別の意味",
     "ipa": "/diːrtiː/",
     "katakana": "ドイルトイ"
   },
@@ -1789,7 +1789,7 @@
   },
   {
     "english": "strong",
-    "japanese": "（不明）",
+    "japanese": "strong の別の意味",
     "ipa": "/stroʊng/",
     "katakana": "スチュラオング"
   },
@@ -1801,7 +1801,7 @@
   },
   {
     "english": "weak",
-    "japanese": "（不明）",
+    "japanese": "weak の別の意味",
     "ipa": "/wək/",
     "katakana": "ワイク"
   },
@@ -1813,7 +1813,7 @@
   },
   {
     "english": "healthy",
-    "japanese": "（不明）",
+    "japanese": "healthy の別の意味",
     "ipa": "/həlthiː/",
     "katakana": "ハイルスイ"
   },
@@ -1825,7 +1825,7 @@
   },
   {
     "english": "sick",
-    "japanese": "（不明）",
+    "japanese": "sick の別の意味",
     "ipa": "/siːkk/",
     "katakana": "スイク"
   },
@@ -1837,7 +1837,7 @@
   },
   {
     "english": "hungry",
-    "japanese": "（不明）",
+    "japanese": "hungry の別の意味",
     "ipa": "/həngriː/",
     "katakana": "ハウングルイ"
   },
@@ -1855,13 +1855,13 @@
   },
   {
     "english": "full",
-    "japanese": "（不明）",
+    "japanese": "full の別の意味",
     "ipa": "/fəll/",
     "katakana": "フウルル"
   },
   {
     "english": "full",
-    "japanese": "（不明）",
+    "japanese": "full の別の意味",
     "ipa": "/fəll/",
     "katakana": "フウルル"
   },
@@ -1873,7 +1873,7 @@
   },
   {
     "english": "thirsty",
-    "japanese": "（不明）",
+    "japanese": "thirsty の別の意味",
     "ipa": "/thiːrstiː/",
     "katakana": "スイルストイ"
   },
@@ -1885,7 +1885,7 @@
   },
   {
     "english": "empty",
-    "japanese": "（不明）",
+    "japanese": "empty の別の意味",
     "ipa": "/emptiː/",
     "katakana": "エムプトイ"
   },
@@ -1897,7 +1897,7 @@
   },
   {
     "english": "closed",
-    "japanese": "（不明）",
+    "japanese": "closed の別の意味",
     "ipa": "/kloʊsed/",
     "katakana": "クルオスエド"
   },
@@ -1909,7 +1909,7 @@
   },
   {
     "english": "right",
-    "japanese": "（不明）",
+    "japanese": "right の別の意味",
     "ipa": "/riːt/",
     "katakana": "ルイグハト"
   },
@@ -1921,7 +1921,7 @@
   },
   {
     "english": "left",
-    "japanese": "（不明）",
+    "japanese": "left の別の意味",
     "ipa": "/left/",
     "katakana": "ルエフト"
   },
@@ -1933,7 +1933,7 @@
   },
   {
     "english": "straight",
-    "japanese": "（不明）",
+    "japanese": "straight の別の意味",
     "ipa": "/striːt/",
     "katakana": "スチュラエイグハト"
   },
@@ -1945,7 +1945,7 @@
   },
   {
     "english": "north",
-    "japanese": "（不明）",
+    "japanese": "north の別の意味",
     "ipa": "/noʊrth/",
     "katakana": "ンオルス"
   },
@@ -1957,7 +1957,7 @@
   },
   {
     "english": "south",
-    "japanese": "（不明）",
+    "japanese": "south の別の意味",
     "ipa": "/saʊth/",
     "katakana": "スオウス"
   },
@@ -1969,7 +1969,7 @@
   },
   {
     "english": "east",
-    "japanese": "（不明）",
+    "japanese": "east の別の意味",
     "ipa": "/əst/",
     "katakana": "イスト"
   },
@@ -1981,7 +1981,7 @@
   },
   {
     "english": "west",
-    "japanese": "（不明）",
+    "japanese": "west の別の意味",
     "ipa": "/west/",
     "katakana": "ワエスト"
   },
@@ -1999,13 +1999,13 @@
   },
   {
     "english": "inside",
-    "japanese": "（不明）",
+    "japanese": "inside の別の意味",
     "ipa": "/iːnsiːde/",
     "katakana": "インスイドエ"
   },
   {
     "english": "inside",
-    "japanese": "（不明）",
+    "japanese": "inside の別の意味",
     "ipa": "/iːnsiːde/",
     "katakana": "インスイドエ"
   },
@@ -2017,19 +2017,19 @@
   },
   {
     "english": "outside",
-    "japanese": "（不明）",
+    "japanese": "outside の別の意味",
     "ipa": "/aʊtsiːde/",
     "katakana": "オウトスイドエ"
   },
   {
     "english": "outside",
-    "japanese": "（不明）",
+    "japanese": "outside の別の意味",
     "ipa": "/aʊtsiːde/",
     "katakana": "オウトスイドエ"
   },
   {
     "english": "outside",
-    "japanese": "（不明）",
+    "japanese": "outside の別の意味",
     "ipa": "/aʊtsiːde/",
     "katakana": "オウトスイドエ"
   },
@@ -2041,7 +2041,7 @@
   },
   {
     "english": "up",
-    "japanese": "（不明）",
+    "japanese": "up の別の意味",
     "ipa": "/əp/",
     "katakana": "ウプ"
   },
@@ -2053,7 +2053,7 @@
   },
   {
     "english": "down",
-    "japanese": "（不明）",
+    "japanese": "down の別の意味",
     "ipa": "/doʊwn/",
     "katakana": "ドオウン"
   },
@@ -2065,7 +2065,7 @@
   },
   {
     "english": "above",
-    "japanese": "（不明）",
+    "japanese": "above の別の意味",
     "ipa": "/æboʊve/",
     "katakana": "アブオヴエ"
   },
@@ -2077,7 +2077,7 @@
   },
   {
     "english": "below",
-    "japanese": "（不明）",
+    "japanese": "below の別の意味",
     "ipa": "/beloʊw/",
     "katakana": "ブエルオウ"
   },
@@ -2089,7 +2089,7 @@
   },
   {
     "english": "near",
-    "japanese": "（不明）",
+    "japanese": "near の別の意味",
     "ipa": "/nər/",
     "katakana": "ンイル"
   },
@@ -2101,7 +2101,7 @@
   },
   {
     "english": "far",
-    "japanese": "（不明）",
+    "japanese": "far の別の意味",
     "ipa": "/fær/",
     "katakana": "フアル"
   },
@@ -2113,7 +2113,7 @@
   },
   {
     "english": "between",
-    "japanese": "（不明）",
+    "japanese": "between の別の意味",
     "ipa": "/betwən/",
     "katakana": "ブエトワエエン"
   },
@@ -2125,7 +2125,7 @@
   },
   {
     "english": "among",
-    "japanese": "（不明）",
+    "japanese": "among の別の意味",
     "ipa": "/æmoʊng/",
     "katakana": "アムオング"
   },
@@ -2137,7 +2137,7 @@
   },
   {
     "english": "before",
-    "japanese": "（不明）",
+    "japanese": "before の別の意味",
     "ipa": "/befoʊre/",
     "katakana": "ブエフオルエ"
   },
@@ -2149,7 +2149,7 @@
   },
   {
     "english": "after",
-    "japanese": "（不明）",
+    "japanese": "after の別の意味",
     "ipa": "/æfter/",
     "katakana": "アフトアル"
   },
@@ -2161,7 +2161,7 @@
   },
   {
     "english": "during",
-    "japanese": "（不明）",
+    "japanese": "during の別の意味",
     "ipa": "/dəriːng/",
     "katakana": "ドウルイング"
   },
@@ -2173,7 +2173,7 @@
   },
   {
     "english": "while",
-    "japanese": "（不明）",
+    "japanese": "while の別の意味",
     "ipa": "/whiːle/",
     "katakana": "ワハイルエ"
   },
@@ -2185,7 +2185,7 @@
   },
   {
     "english": "since",
-    "japanese": "（不明）",
+    "japanese": "since の別の意味",
     "ipa": "/siːnse/",
     "katakana": "スインクエ"
   },
@@ -2197,7 +2197,7 @@
   },
   {
     "english": "until",
-    "japanese": "（不明）",
+    "japanese": "until の別の意味",
     "ipa": "/əntiːl/",
     "katakana": "ウントイル"
   },
@@ -2209,7 +2209,7 @@
   },
   {
     "english": "because",
-    "japanese": "（不明）",
+    "japanese": "because の別の意味",
     "ipa": "/bekəse/",
     "katakana": "ブエクアウスエ"
   },
@@ -2221,7 +2221,7 @@
   },
   {
     "english": "so",
-    "japanese": "（不明）",
+    "japanese": "so の別の意味",
     "ipa": "/soʊ/",
     "katakana": "スオ"
   },
@@ -2233,7 +2233,7 @@
   },
   {
     "english": "but",
-    "japanese": "（不明）",
+    "japanese": "but の別の意味",
     "ipa": "/bət/",
     "katakana": "ブウト"
   },
@@ -2245,7 +2245,7 @@
   },
   {
     "english": "and",
-    "japanese": "（不明）",
+    "japanese": "and の別の意味",
     "ipa": "/ænd/",
     "katakana": "アンド"
   },
@@ -2257,7 +2257,7 @@
   },
   {
     "english": "or",
-    "japanese": "（不明）",
+    "japanese": "or の別の意味",
     "ipa": "/oʊr/",
     "katakana": "アル"
   },
@@ -2269,7 +2269,7 @@
   },
   {
     "english": "if",
-    "japanese": "（不明）",
+    "japanese": "if の別の意味",
     "ipa": "/iːf/",
     "katakana": "イフ"
   },
@@ -2281,7 +2281,7 @@
   },
   {
     "english": "though",
-    "japanese": "（不明）",
+    "japanese": "though の別の意味",
     "ipa": "/thaʊ/",
     "katakana": "スオ"
   },
@@ -2293,7 +2293,7 @@
   },
   {
     "english": "although",
-    "japanese": "（不明）",
+    "japanese": "although の別の意味",
     "ipa": "/ælthaʊ/",
     "katakana": "アルスオ"
   },
@@ -2305,7 +2305,7 @@
   },
   {
     "english": "however",
-    "japanese": "（不明）",
+    "japanese": "however の別の意味",
     "ipa": "/hoʊwever/",
     "katakana": "ハオウエヴアル"
   },
@@ -2317,7 +2317,7 @@
   },
   {
     "english": "therefore",
-    "japanese": "（不明）",
+    "japanese": "therefore の別の意味",
     "ipa": "/therefoʊre/",
     "katakana": "スエルエフオルエ"
   },
@@ -2329,7 +2329,7 @@
   },
   {
     "english": "also",
-    "japanese": "（不明）",
+    "japanese": "also の別の意味",
     "ipa": "/ælsoʊ/",
     "katakana": "アルスオ"
   },
@@ -2341,7 +2341,7 @@
   },
   {
     "english": "too",
-    "japanese": "（不明）",
+    "japanese": "too の別の意味",
     "ipa": "/tuː/",
     "katakana": "トウ"
   },
@@ -2353,7 +2353,7 @@
   },
   {
     "english": "very",
-    "japanese": "（不明）",
+    "japanese": "very の別の意味",
     "ipa": "/veriː/",
     "katakana": "ヴエルイ"
   },
@@ -2365,7 +2365,7 @@
   },
   {
     "english": "quite",
-    "japanese": "（不明）",
+    "japanese": "quite の別の意味",
     "ipa": "/kwiːte/",
     "katakana": "クイトエ"
   },
@@ -2377,7 +2377,7 @@
   },
   {
     "english": "almost",
-    "japanese": "（不明）",
+    "japanese": "almost の別の意味",
     "ipa": "/ælmoʊst/",
     "katakana": "アルムオスト"
   },
@@ -2389,7 +2389,7 @@
   },
   {
     "english": "already",
-    "japanese": "（不明）",
+    "japanese": "already の別の意味",
     "ipa": "/ælrədiː/",
     "katakana": "アルルイドイ"
   },
@@ -2401,7 +2401,7 @@
   },
   {
     "english": "yet",
-    "japanese": "（不明）",
+    "japanese": "yet の別の意味",
     "ipa": "/iːt/",
     "katakana": "イエト"
   },
@@ -2413,7 +2413,7 @@
   },
   {
     "english": "still",
-    "japanese": "（不明）",
+    "japanese": "still の別の意味",
     "ipa": "/stiːll/",
     "katakana": "ストイルル"
   },
@@ -2425,7 +2425,7 @@
   },
   {
     "english": "ever",
-    "japanese": "（不明）",
+    "japanese": "ever の別の意味",
     "ipa": "/ever/",
     "katakana": "エヴアル"
   },
@@ -2437,7 +2437,7 @@
   },
   {
     "english": "never",
-    "japanese": "（不明）",
+    "japanese": "never の別の意味",
     "ipa": "/never/",
     "katakana": "ンエヴアル"
   },
@@ -2455,13 +2455,13 @@
   },
   {
     "english": "sometimes",
-    "japanese": "（不明）",
+    "japanese": "sometimes の別の意味",
     "ipa": "/soʊmetiːmes/",
     "katakana": "スオムエトイムエス"
   },
   {
     "english": "sometimes",
-    "japanese": "（不明）",
+    "japanese": "sometimes の別の意味",
     "ipa": "/soʊmetiːmes/",
     "katakana": "スオムエトイムエス"
   },
@@ -2473,7 +2473,7 @@
   },
   {
     "english": "often",
-    "japanese": "（不明）",
+    "japanese": "often の別の意味",
     "ipa": "/oʊften/",
     "katakana": "オフトエン"
   },
@@ -2485,7 +2485,7 @@
   },
   {
     "english": "usually",
-    "japanese": "（不明）",
+    "japanese": "usually の別の意味",
     "ipa": "/əsəlliː/",
     "katakana": "ウスウアルルイ"
   },
@@ -2497,7 +2497,7 @@
   },
   {
     "english": "rarely",
-    "japanese": "（不明）",
+    "japanese": "rarely の別の意味",
     "ipa": "/ræreliː/",
     "katakana": "ルアルエルイ"
   },
@@ -2509,7 +2509,7 @@
   },
   {
     "english": "always",
-    "japanese": "（不明）",
+    "japanese": "always の別の意味",
     "ipa": "/ælwiːs/",
     "katakana": "アルワエイス"
   },
@@ -2521,7 +2521,7 @@
   },
   {
     "english": "together",
-    "japanese": "（不明）",
+    "japanese": "together の別の意味",
     "ipa": "/toʊgether/",
     "katakana": "トオグエズアル"
   },
@@ -2533,7 +2533,7 @@
   },
   {
     "english": "alone",
-    "japanese": "（不明）",
+    "japanese": "alone の別の意味",
     "ipa": "/æloʊne/",
     "katakana": "アルオンエ"
   },
@@ -2545,7 +2545,7 @@
   },
   {
     "english": "each",
-    "japanese": "（不明）",
+    "japanese": "each の別の意味",
     "ipa": "/əkh/",
     "katakana": "イチ"
   },
@@ -2557,7 +2557,7 @@
   },
   {
     "english": "every",
-    "japanese": "（不明）",
+    "japanese": "every の別の意味",
     "ipa": "/everiː/",
     "katakana": "エヴエルイ"
   },
@@ -2569,7 +2569,7 @@
   },
   {
     "english": "all",
-    "japanese": "（不明）",
+    "japanese": "all の別の意味",
     "ipa": "/æll/",
     "katakana": "アルル"
   },
@@ -2581,7 +2581,7 @@
   },
   {
     "english": "some",
-    "japanese": "（不明）",
+    "japanese": "some の別の意味",
     "ipa": "/soʊme/",
     "katakana": "スオムエ"
   },
@@ -2593,7 +2593,7 @@
   },
   {
     "english": "many",
-    "japanese": "（不明）",
+    "japanese": "many の別の意味",
     "ipa": "/mæniː/",
     "katakana": "ムアンイ"
   },
@@ -2605,7 +2605,7 @@
   },
   {
     "english": "few",
-    "japanese": "（不明）",
+    "japanese": "few の別の意味",
     "ipa": "/few/",
     "katakana": "フエワ"
   },
@@ -2617,7 +2617,7 @@
   },
   {
     "english": "several",
-    "japanese": "（不明）",
+    "japanese": "several の別の意味",
     "ipa": "/severæl/",
     "katakana": "スエヴエルアル"
   },
@@ -2629,7 +2629,7 @@
   },
   {
     "english": "most",
-    "japanese": "（不明）",
+    "japanese": "most の別の意味",
     "ipa": "/moʊst/",
     "katakana": "ムオスト"
   },
@@ -2641,7 +2641,7 @@
   },
   {
     "english": "least",
-    "japanese": "（不明）",
+    "japanese": "least の別の意味",
     "ipa": "/ləst/",
     "katakana": "ルイスト"
   },
@@ -2653,7 +2653,7 @@
   },
   {
     "english": "first",
-    "japanese": "（不明）",
+    "japanese": "first の別の意味",
     "ipa": "/fiːrst/",
     "katakana": "フイルスト"
   },
@@ -2665,7 +2665,7 @@
   },
   {
     "english": "second",
-    "japanese": "（不明）",
+    "japanese": "second の別の意味",
     "ipa": "/sekoʊnd/",
     "katakana": "スエクオンド"
   },
@@ -2677,7 +2677,7 @@
   },
   {
     "english": "third",
-    "japanese": "（不明）",
+    "japanese": "third の別の意味",
     "ipa": "/thiːrd/",
     "katakana": "スイルド"
   },
@@ -2689,7 +2689,7 @@
   },
   {
     "english": "next",
-    "japanese": "（不明）",
+    "japanese": "next の別の意味",
     "ipa": "/nekst/",
     "katakana": "ンエクスト"
   },
@@ -2701,7 +2701,7 @@
   },
   {
     "english": "last",
-    "japanese": "（不明）",
+    "japanese": "last の別の意味",
     "ipa": "/læst/",
     "katakana": "ルアスト"
   },
@@ -2713,7 +2713,7 @@
   },
   {
     "english": "finally",
-    "japanese": "（不明）",
+    "japanese": "finally の別の意味",
     "ipa": "/fiːnælliː/",
     "katakana": "フインアルルイ"
   },
@@ -2761,7 +2761,7 @@
   },
   {
     "english": "kill two birds with one stone",
-    "japanese": "（不明）",
+    "japanese": "kill two birds with one stone の別の意味",
     "ipa": "/kiːll/ /twoʊ/ /biːrds/ /wiːth/ /oʊne/ /stoʊne/",
     "katakana": "クイルル・トワオ・ブイルドス・ワイス・オンエ・ストオンエ"
   },
@@ -2857,7 +2857,7 @@
   },
   {
     "english": "call it a day",
-    "japanese": "（不明）",
+    "japanese": "call it a day の別の意味",
     "ipa": "/kæll/ /iːt/ /æ/ /diː/",
     "katakana": "クアルル・イト・ア・ドエイ"
   },
@@ -2893,7 +2893,7 @@
   },
   {
     "english": "cut corners",
-    "japanese": "（不明）",
+    "japanese": "cut corners の別の意味",
     "ipa": "/kət/ /koʊrners/",
     "katakana": "クウト・クオルンエルス"
   },
@@ -2929,7 +2929,7 @@
   },
   {
     "english": "pull someone",
-    "japanese": "（不明）",
+    "japanese": "pull someone の別の意味",
     "ipa": "/pəll/ /soʊmoʊne/",
     "katakana": "プウルル・スオムエオンエ"
   },
@@ -2947,7 +2947,7 @@
   },
   {
     "english": "up to no good",
-    "japanese": "（不明）",
+    "japanese": "up to no good の別の意味",
     "ipa": "/əp/ /toʊ/ /noʊ/ /ɡʊd/",
     "katakana": "ウプ・トオ・ンオ・グウド"
   },
@@ -2959,7 +2959,7 @@
   },
   {
     "english": "wear your heart on your sleeve",
-    "japanese": "（不明）",
+    "japanese": "wear your heart on your sleeve の別の意味",
     "ipa": "/wər/ /iːr/ /hərt/ /oʊn/ /iːr/ /sləve/",
     "katakana": "ワイル・イオウル・ハイルト・オン・イオウル・スルエエヴエ"
   },
@@ -2971,7 +2971,7 @@
   },
   {
     "english": "work like a charm",
-    "japanese": "（不明）",
+    "japanese": "work like a charm の別の意味",
     "ipa": "/woʊrk/ /liːke/ /æ/ /khærm/",
     "katakana": "ワオルク・ルイクエ・ア・チアルム"
   },
@@ -2983,7 +2983,7 @@
   },
   {
     "english": "you bet",
-    "japanese": "（不明）",
+    "japanese": "you bet の別の意味",
     "ipa": "/iː/ /bet/",
     "katakana": "イオウ・ブエト"
   },
@@ -2995,7 +2995,7 @@
   },
   {
     "english": "zero tolerance",
-    "japanese": "（不明）",
+    "japanese": "zero tolerance の別の意味",
     "ipa": "/zeroʊ/ /toʊlerænse/",
     "katakana": "ズエルオ・トオルエルアンクエ"
   },
@@ -3007,7 +3007,7 @@
   },
   {
     "english": "add fuel to the fire",
-    "japanese": "（不明）",
+    "japanese": "add fuel to the fire の別の意味",
     "ipa": "/ædd/ /fəl/ /toʊ/ /the/ /fiːre/",
     "katakana": "アドド・フウエル・トオ・ズア・フイルエ"
   },
@@ -3019,7 +3019,7 @@
   },
   {
     "english": "at the drop of a hat",
-    "japanese": "（不明）",
+    "japanese": "at the drop of a hat の別の意味",
     "ipa": "/æt/ /the/ /droʊp/ /oʊf/ /æ/ /hæt/",
     "katakana": "アト・ズア・ドルオプ・オフ・ア・ハアト"
   },
@@ -3031,7 +3031,7 @@
   },
   {
     "english": "backseat driver",
-    "japanese": "（不明）",
+    "japanese": "backseat driver の別の意味",
     "ipa": "/bækksət/ /driːver/",
     "katakana": "ブアクスイト・ドルイヴアル"
   },
@@ -3043,7 +3043,7 @@
   },
   {
     "english": "barking up the wrong tree",
-    "japanese": "（不明）",
+    "japanese": "barking up the wrong tree の別の意味",
     "ipa": "/bærkiːng/ /əp/ /the/ /wroʊng/ /trə/",
     "katakana": "ブアルクイング・ウプ・ズア・ワルオング・チュラエエ"
   },
@@ -3055,7 +3055,7 @@
   },
   {
     "english": "beat a dead horse",
-    "japanese": "（不明）",
+    "japanese": "beat a dead horse の別の意味",
     "ipa": "/bət/ /æ/ /dəd/ /hoʊrse/",
     "katakana": "ブイト・ア・ドイド・ハオルスエ"
   },
@@ -3067,7 +3067,7 @@
   },
   {
     "english": "between a rock and a hard place",
-    "japanese": "（不明）",
+    "japanese": "between a rock and a hard place の別の意味",
     "ipa": "/betwən/ /æ/ /roʊkk/ /ænd/ /æ/ /hærd/ /plæse/",
     "katakana": "ブエトワエエン・ア・ルオク・アンド・ア・ハアルド・プルアクエ"
   },
@@ -3079,7 +3079,7 @@
   },
   {
     "english": "break even",
-    "japanese": "（不明）",
+    "japanese": "break even の別の意味",
     "ipa": "/brək/ /even/",
     "katakana": "ブルイク・エヴエン"
   },
@@ -3091,7 +3091,7 @@
   },
   {
     "english": "call someone",
-    "japanese": "（不明）",
+    "japanese": "call someone の別の意味",
     "ipa": "/kæll/ /soʊmoʊne/",
     "katakana": "クアルル・スオムエオンエ"
   },
@@ -3109,7 +3109,7 @@
   },
   {
     "english": "give someone a run for their money",
-    "japanese": "（不明）",
+    "japanese": "give someone a run for their money の別の意味",
     "ipa": "/giːve/ /soʊmoʊne/ /æ/ /rən/ /foʊr/ /thiːr/ /moʊniː/",
     "katakana": "グイヴエ・スオムエオンエ・ア・ルウン・フアル・スエイル・ムオンエイ"
   },
@@ -3121,7 +3121,7 @@
   },
   {
     "english": "go out on a limb",
-    "japanese": "（不明）",
+    "japanese": "go out on a limb の別の意味",
     "ipa": "/ɡoʊ/ /aʊt/ /oʊn/ /æ/ /liːmb/",
     "katakana": "グオ・オウト・オン・ア・ルイムブ"
   },
@@ -3133,7 +3133,7 @@
   },
   {
     "english": "have a lot on one",
-    "japanese": "（不明）",
+    "japanese": "have a lot on one の別の意味",
     "ipa": "/hæve/ /æ/ /loʊt/ /oʊn/ /oʊne/",
     "katakana": "ハアヴエ・ア・ルオト・オン・オンエ"
   },
@@ -3151,7 +3151,7 @@
   },
   {
     "english": "lay it on thick",
-    "japanese": "（不明）",
+    "japanese": "lay it on thick の別の意味",
     "ipa": "/liː/ /iːt/ /oʊn/ /thiːkk/",
     "katakana": "ルエイ・イト・オン・スイク"
   },
@@ -3163,7 +3163,7 @@
   },
   {
     "english": "make ends meet",
-    "japanese": "（不明）",
+    "japanese": "make ends meet の別の意味",
     "ipa": "/mæke/ /ends/ /mət/",
     "katakana": "ムアクエ・エンドス・ムエエト"
   },
@@ -3175,7 +3175,7 @@
   },
   {
     "english": "not my cup of tea",
-    "japanese": "（不明）",
+    "japanese": "not my cup of tea の別の意味",
     "ipa": "/noʊt/ /miː/ /kəp/ /oʊf/ /tə/",
     "katakana": "ンオト・ムイ・クウプ・オフ・トイ"
   },
@@ -3187,7 +3187,7 @@
   },
   {
     "english": "on the fence",
-    "japanese": "（不明）",
+    "japanese": "on the fence の別の意味",
     "ipa": "/oʊn/ /the/ /fense/",
     "katakana": "オン・ズア・フエンクエ"
   },
@@ -3199,7 +3199,7 @@
   },
   {
     "english": "play hard to get",
-    "japanese": "（不明）",
+    "japanese": "play hard to get の別の意味",
     "ipa": "/pliː/ /hærd/ /toʊ/ /get/",
     "katakana": "プルエイ・ハアルド・トオ・グエト"
   },
@@ -3211,7 +3211,7 @@
   },
   {
     "english": "put your nose to the grindstone",
-    "japanese": "（不明）",
+    "japanese": "put your nose to the grindstone の別の意味",
     "ipa": "/pət/ /iːr/ /noʊse/ /toʊ/ /the/ /griːndstoʊne/",
     "katakana": "プウト・イオウル・ンオスエ・トオ・ズア・グルインドストオンエ"
   },
@@ -3223,7 +3223,7 @@
   },
   {
     "english": "raise the bar",
-    "japanese": "（不明）",
+    "japanese": "raise the bar の別の意味",
     "ipa": "/riːse/ /the/ /bær/",
     "katakana": "ルエイスエ・ズア・ブアル"
   },
@@ -3235,7 +3235,7 @@
   },
   {
     "english": "read between the lines",
-    "japanese": "（不明）",
+    "japanese": "read between the lines の別の意味",
     "ipa": "/rəd/ /betwən/ /the/ /liːnes/",
     "katakana": "ルイド・ブエトワエエン・ズア・ルインエス"
   },
@@ -3247,7 +3247,7 @@
   },
   {
     "english": "run out of steam",
-    "japanese": "（不明）",
+    "japanese": "run out of steam の別の意味",
     "ipa": "/rən/ /aʊt/ /oʊf/ /stəm/",
     "katakana": "ルウン・オウト・オフ・ストイム"
   },
@@ -3259,7 +3259,7 @@
   },
   {
     "english": "sweep under the rug",
-    "japanese": "（不明）",
+    "japanese": "sweep under the rug の別の意味",
     "ipa": "/swəp/ /ənder/ /the/ /rəg/",
     "katakana": "スワエエプ・ウンドアル・ズア・ルウグ"
   },
@@ -3271,7 +3271,7 @@
   },
   {
     "english": "take someone for granted",
-    "japanese": "（不明）",
+    "japanese": "take someone for granted の別の意味",
     "ipa": "/tæke/ /soʊmoʊne/ /foʊr/ /grænted/",
     "katakana": "トアクエ・スオムエオンエ・フアル・グルアントエド"
   },
@@ -3283,7 +3283,7 @@
   },
   {
     "english": "test the waters",
-    "japanese": "（不明）",
+    "japanese": "test the waters の別の意味",
     "ipa": "/test/ /the/ /wæters/",
     "katakana": "トエスト・ズア・ワアトエルス"
   },
@@ -3295,7 +3295,7 @@
   },
   {
     "english": "think outside the box",
-    "japanese": "（不明）",
+    "japanese": "think outside the box の別の意味",
     "ipa": "/thiːnk/ /aʊtsiːde/ /the/ /boʊks/",
     "katakana": "スインク・オウトスイドエ・ズア・ブオクス"
   },
@@ -3307,7 +3307,7 @@
   },
   {
     "english": "throw in the towel",
-    "japanese": "（不明）",
+    "japanese": "throw in the towel の別の意味",
     "ipa": "/throʊw/ /iːn/ /the/ /toʊwel/",
     "katakana": "スルオウ・イン・ズア・トオウエル"
   },
@@ -3319,7 +3319,7 @@
   },
   {
     "english": "turn a blind eye",
-    "japanese": "（不明）",
+    "japanese": "turn a blind eye の別の意味",
     "ipa": "/tərn/ /æ/ /bliːnd/ /iː/",
     "katakana": "トウルン・ア・ブルインド・エイエ"
   },
@@ -3331,7 +3331,7 @@
   },
   {
     "english": "up the ante",
-    "japanese": "（不明）",
+    "japanese": "up the ante の別の意味",
     "ipa": "/əp/ /the/ /ænte/",
     "katakana": "ウプ・ズア・アントエ"
   },
