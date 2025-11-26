@@ -129,12 +129,16 @@ function renderCard(){
 function cardClicked(){
   if(!showAnswer){ showAnswer = true; renderCard(); return; }
   repeatCount++;
-  if(repeatCount < settings.repeatCount){ showAnswer = false; renderCard(); return; }
+  if(repeatCount < settings.repeatCount){ showAnswer = false; renderCard();
+                                             playAudioForWord(words[currentIndex].english);
+return; }
   nextWord();
 }
 
 function nextWord(){
-  if(currentIndex < words.length - 1){ currentIndex++; showAnswer = false; repeatCount = 0; renderCard(); }
+  if(currentIndex < words.length - 1){ currentIndex++; showAnswer = false; repeatCount = 0; renderCard(); 
+                                         playAudioForWord(words[currentIndex].english);
+}
   else {
     alert('学習終了！');
     if(el('studyArea')) el('studyArea').style.display = 'none';
