@@ -226,6 +226,18 @@ window.addEventListener('load', ()=>{
   // list handlers
   if(el('searchInput')) el('searchInput').addEventListener('input', e=> onSearch(e.target.value));
   if(el('showAllBtn')) el('showAllBtn').addEventListener('click', ()=> renderList(words));
+  // === 1回読み上げモード トグル ===
+if (el('oneShotBtn')) el('oneShotBtn').addEventListener('click', () => {
+  settings.oneShotMode = !settings.oneShotMode;
+  settings.repeatCount = settings.oneShotMode ? 1 : 2; // ★切り替え
+
+  saveSettings();
+
+  alert(settings.oneShotMode 
+        ? "1回だけ読み上げモード ON" 
+        : "通常の2回学習モードに戻しました");
+});
+
   if(el('shuffleListBtn')) el('shuffleListBtn').addEventListener('click', ()=> shuffleWords());
   if(el('showHardBtn')) el('showHardBtn').addEventListener('click', ()=> showHardOnly());
 
