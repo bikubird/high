@@ -12,6 +12,7 @@ let settings = {
   hideIPA: false,
   hideKatakana: false,
   hideJapanese: false,
+  oneShotMode: false, // ★ 追加：1回読み上げモード
   repeatCount: 2,
   ttsFallback: true
 };
